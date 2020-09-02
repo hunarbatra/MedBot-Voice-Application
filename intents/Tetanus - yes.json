@@ -1,0 +1,43 @@
+{
+  "id": "506d263d-d990-4e1c-b04d-ba0594a61a48",
+  "parentId": "6a5a9ade-ecbb-4d45-adaa-4613942ca6c3",
+  "rootParentId": "6a5a9ade-ecbb-4d45-adaa-4613942ca6c3",
+  "name": "Tetanus - yes",
+  "auto": true,
+  "contexts": [
+    "Tetanus-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Tetanus.Tetanus-yes",
+      "affectedContexts": [
+        {
+          "name": "user-wants-more-help",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "awaiting_no",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Sure! Tetanus can be prevented by vaccination with tetanus toxoid. There are four combination vaccines used to prevent tetanus: DTaP, Tdap, DT, and Td. Two of these (DTaP and DT) are given to children younger than 7 years of age, and two (Tdap and Td) are given to older children and adults. Do you want my help with something else?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

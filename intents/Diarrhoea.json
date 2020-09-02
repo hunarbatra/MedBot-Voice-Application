@@ -1,0 +1,46 @@
+{
+  "id": "60daad10-5a5a-4c4c-a414-0480cb5e9e1a",
+  "name": "Diarrhoea",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "Diarrhoea-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "aa1f60f2-3bdc-467c-9c76-e71915aa5e0d",
+          "required": false,
+          "dataType": "@diseases",
+          "name": "diseases",
+          "value": "$diseases",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Loose, watery and possibly more-frequent bowel movements. It can indicate a serious disorder, such as a persistent infection, inflammatory bowel disease, or a less serious condition, such as irritable bowel syndrome. Signs and symptoms associated with diarrhoea may include: Loose, watery stools, Abdominal\ncramps,  Blood in the stool, Bloating, Nausea, Urgent need to have a bowel movement. Do you want to know about its preventive measures?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

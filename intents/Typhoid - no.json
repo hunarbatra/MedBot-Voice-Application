@@ -1,0 +1,43 @@
+{
+  "id": "733413b6-1001-4cc5-9cd2-e6a0ad4a69da",
+  "parentId": "5214323e-d240-4c7c-ab15-2c6cd101191e",
+  "rootParentId": "5214323e-d240-4c7c-ab15-2c6cd101191e",
+  "name": "Typhoid - no",
+  "auto": true,
+  "contexts": [
+    "Typhoid-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Typhoid.Typhoid-no",
+      "affectedContexts": [
+        {
+          "name": "user-wants-more-help",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "awaiting_no",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "How can I help you?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

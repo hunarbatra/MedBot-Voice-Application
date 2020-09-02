@@ -1,0 +1,74 @@
+{
+  "id": "8a8567c9-e8a8-4848-8563-9573c227780c",
+  "name": "Default Welcome Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.welcome",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "basic_card",
+          "platform": "google",
+          "lang": "en",
+          "image": {
+            "url": "https://previews.123rf.com/images/cuppuccino/cuppuccino1808/cuppuccino180800075/106051994-online-doctor-bot-icon-healthcare-service-chatbot-icon-cute-smiling-robot-vector-flat-line-cartoon-i.jpg",
+            "accessibilityText": "hi"
+          }
+        },
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "lang": "en",
+          "suggestions": [
+            {
+              "title": "Pregnancy"
+            },
+            {
+              "title": "Diseases"
+            },
+            {
+              "title": "Local food recommendation"
+            },
+            {
+              "title": "Vaccines"
+            },
+            {
+              "title": "Menstrual hygiene"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Welcome to Apka Sahaara! I am a healthcare voice assistant! I can provide you with information on the prevention of various chronic diseases,healthcare for mothers and infants, local food recommendations along with some additional healthcare tips!How can I help you today?"
+        },
+        {
+          "type": 0,
+          "lang": "hi",
+          "speech": [
+            "नमस्ते!",
+            "नमस्कार!",
+            "आपका दिन शुभ हो!"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "WELCOME"
+    }
+  ]
+}

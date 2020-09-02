@@ -1,0 +1,43 @@
+{
+  "id": "99a4b0b5-d005-440d-88f0-5f6221ab5492",
+  "parentId": "015320fb-a2ab-4943-8978-4370e4070c24",
+  "rootParentId": "015320fb-a2ab-4943-8978-4370e4070c24",
+  "name": "Measles - no",
+  "auto": true,
+  "contexts": [
+    "Measles-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Measles.Measles-no",
+      "affectedContexts": [
+        {
+          "name": "user",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "awaiting_no",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "How can I help you?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

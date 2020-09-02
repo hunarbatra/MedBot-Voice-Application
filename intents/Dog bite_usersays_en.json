@@ -1,0 +1,106 @@
+[
+  {
+    "id": "d8a4e393-a229-4a58-9f95-24d6d9259e2c",
+    "data": [
+      {
+        "text": "dog bite",
+        "alias": "diseases",
+        "meta": "@diseases",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "8194f7e7-589c-48e7-8559-d9d76aaf75a5",
+    "data": [
+      {
+        "text": "How do I know I have ",
+        "userDefined": false
+      },
+      {
+        "text": "dog bite",
+        "alias": "diseases",
+        "meta": "@diseases",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "11334092-1cb3-459b-ac7e-ba7b6ffab5d8",
+    "data": [
+      {
+        "text": "symptoms of ",
+        "userDefined": false
+      },
+      {
+        "text": "dog bite",
+        "alias": "diseases",
+        "meta": "@diseases",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d639184f-20cb-4be7-b090-ea4b277246f6",
+    "data": [
+      {
+        "text": "info on ",
+        "userDefined": false
+      },
+      {
+        "text": "dog bite",
+        "alias": "diseases",
+        "meta": "@diseases",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "06c3a051-ef27-4578-b1b6-25b245d1324a",
+    "data": [
+      {
+        "text": "tell me about ",
+        "userDefined": false
+      },
+      {
+        "text": "dog bite",
+        "alias": "diseases",
+        "meta": "@diseases",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "58922fae-38ee-47cd-976d-f454cc1ba471",
+    "data": [
+      {
+        "text": "what is ",
+        "userDefined": false
+      },
+      {
+        "text": "dog bite",
+        "alias": "diseases",
+        "meta": "@diseases",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

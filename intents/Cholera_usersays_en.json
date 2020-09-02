@@ -1,0 +1,212 @@
+[
+  {
+    "id": "8fd670da-a6d8-475c-98eb-2f7f653dfe04",
+    "data": [
+      {
+        "text": "can you tell me what is ",
+        "userDefined": false
+      },
+      {
+        "text": "cholera",
+        "alias": "diseases",
+        "meta": "@diseases",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5e58daa3-c89a-4832-8466-8453aefbc2c1",
+    "data": [
+      {
+        "text": "cholera",
+        "alias": "diseases",
+        "meta": "@diseases",
+        "userDefined": false
+      },
+      {
+        "text": " symptoms",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "56c86402-1b2c-4984-91f6-1e33c5f5289c",
+    "data": [
+      {
+        "text": "please tell me about ",
+        "userDefined": false
+      },
+      {
+        "text": "cholera",
+        "alias": "diseases",
+        "meta": "@diseases",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9e4d9c13-e0d1-46bb-b2cc-abe5ed9061a2",
+    "data": [
+      {
+        "text": "cholera",
+        "alias": "diseases",
+        "meta": "@diseases",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a5f38fa1-ed63-4ab1-8fd1-8efac04f22d5",
+    "data": [
+      {
+        "text": "symptoms of ",
+        "userDefined": false
+      },
+      {
+        "text": "cholera",
+        "alias": "diseases",
+        "meta": "@diseases",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "23656021-8049-441a-9323-4adef477b530",
+    "data": [
+      {
+        "text": "can i know the symptoms of ",
+        "userDefined": false
+      },
+      {
+        "text": "cholera",
+        "alias": "diseases",
+        "meta": "@diseases",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c13812a6-50fb-44ae-93b4-2d45cd0246fb",
+    "data": [
+      {
+        "text": "i want information about ",
+        "userDefined": false
+      },
+      {
+        "text": "cholera",
+        "alias": "diseases",
+        "meta": "@diseases",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "440be97a-0ff9-4350-99cf-6265a3e8ca28",
+    "data": [
+      {
+        "text": "can i know what is ",
+        "userDefined": false
+      },
+      {
+        "text": "cholera",
+        "alias": "diseases",
+        "meta": "@diseases",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "64e8bdd1-a660-4287-8422-c417332491a7",
+    "data": [
+      {
+        "text": "what is ",
+        "userDefined": false
+      },
+      {
+        "text": "cholera",
+        "alias": "diseases",
+        "meta": "@diseases",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "569b79d8-c23f-40c7-adf9-0f99e79e3823",
+    "data": [
+      {
+        "text": "I want to know about ",
+        "userDefined": false
+      },
+      {
+        "text": "cholera",
+        "alias": "diseases",
+        "meta": "@diseases",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f318d31e-a2a6-4fff-a3f8-3776aa574d4a",
+    "data": [
+      {
+        "text": "Tell me about ",
+        "userDefined": false
+      },
+      {
+        "text": "cholera",
+        "alias": "diseases",
+        "meta": "@diseases",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

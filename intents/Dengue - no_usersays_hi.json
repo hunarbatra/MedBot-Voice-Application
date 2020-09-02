@@ -1,0 +1,122 @@
+[
+  {
+    "id": "d4fb29da-9164-47f9-9608-0d8e6ebd4ea8",
+    "data": [
+      {
+        "text": "ना",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "923383e5-2134-4971-9dba-d54aa4a5a5fc",
+    "data": [
+      {
+        "text": "नहीं",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4f1aeffa-6ca7-4028-a138-b6c1865afcc4",
+    "data": [
+      {
+        "text": "कोई दिलचस्पी नहीं",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1176dd01-97c7-4943-89c3-ccb94087baef",
+    "data": [
+      {
+        "text": "मुझे नहीं चाहिए",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "590cdc7c-42c9-4387-9b9a-93f1a09ae452",
+    "data": [
+      {
+        "text": "बिलकुल नहीं",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9213a9a2-3cc1-42c1-89b4-d40914eda739",
+    "data": [
+      {
+        "text": "मत करो",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "49d1d7d1-1618-47bf-a2de-ab899e19bc04",
+    "data": [
+      {
+        "text": "मुझे नहीं लगता",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ae7f68ec-2278-494d-be87-4f470b25f7e8",
+    "data": [
+      {
+        "text": "जी नहीं",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "292ed914-00c1-41f0-a146-46d0ee505968",
+    "data": [
+      {
+        "text": "मैं नहीं मानती",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "168647a9-6288-4d7e-b8b2-3b6e61470772",
+    "data": [
+      {
+        "text": "शुक्रिया, लेकिन नहीं",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,56 @@
+{
+  "id": "b0db4fb6-2d34-4545-b5ad-3cf7cc529484",
+  "parentId": "0ac9c6e2-6a97-45d3-aeed-66f32d4947f1",
+  "rootParentId": "0ac9c6e2-6a97-45d3-aeed-66f32d4947f1",
+  "name": "Dog bite - yes",
+  "auto": true,
+  "contexts": [
+    "Dogbite-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Dogbite.Dogbite-yes",
+      "affectedContexts": [
+        {
+          "name": "user-wants-more-help",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "awaiting_no",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "6c01009c-1599-4096-999f-1c2a84cab6cb",
+          "required": false,
+          "dataType": "@diseases",
+          "name": "diseases",
+          "value": "$diseases",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Go to a safe place away from the dog to prevent further attack or injury.Wound should be kept elevated and if it is possible you can clean the wound with sterile water and dress the wound to control bleeding.Is there something else I can do for you?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

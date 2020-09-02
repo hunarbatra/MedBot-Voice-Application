@@ -1,0 +1,182 @@
+[
+  {
+    "id": "82ba60be-7c6b-4693-b776-dc95a91166cb",
+    "data": [
+      {
+        "text": "prevention of ",
+        "userDefined": false
+      },
+      {
+        "text": "polio",
+        "alias": "diseases",
+        "meta": "@diseases",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "47b25960-e229-42d4-832f-ea9f533ba944",
+    "data": [
+      {
+        "text": "precaution of ",
+        "userDefined": false
+      },
+      {
+        "text": "polio",
+        "alias": "diseases",
+        "meta": "@diseases",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "69246ed0-6709-4da3-b7dc-fe218ac3d76c",
+    "data": [
+      {
+        "text": "prevent ",
+        "userDefined": false
+      },
+      {
+        "text": "polio",
+        "alias": "diseases",
+        "meta": "@diseases",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1769015a-bc22-4701-abb2-937fc7733fa4",
+    "data": [
+      {
+        "text": "How do I know I have ",
+        "userDefined": false
+      },
+      {
+        "text": "polio",
+        "alias": "diseases",
+        "meta": "@diseases",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "613092d6-9cc9-4e54-b2f7-7ae69b5b5709",
+    "data": [
+      {
+        "text": "causes of ",
+        "userDefined": false
+      },
+      {
+        "text": "polio",
+        "alias": "diseases",
+        "meta": "@diseases",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "788dca7e-f0fd-43e8-aa73-251002995383",
+    "data": [
+      {
+        "text": "symptoms of ",
+        "userDefined": false
+      },
+      {
+        "text": "polio",
+        "alias": "diseases",
+        "meta": "@diseases",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c815c087-5507-49b2-939e-b13b3e0d35aa",
+    "data": [
+      {
+        "text": "tell me about ",
+        "userDefined": false
+      },
+      {
+        "text": "polio",
+        "alias": "diseases",
+        "meta": "@diseases",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "027fc965-03fc-4c7f-8b43-4387439b6096",
+    "data": [
+      {
+        "text": "info on ",
+        "userDefined": false
+      },
+      {
+        "text": "polio",
+        "alias": "diseases",
+        "meta": "@diseases",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "47631bb2-706d-419b-9e1d-a1fc29e8f52d",
+    "data": [
+      {
+        "text": "polio",
+        "alias": "diseases",
+        "meta": "@diseases",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "86f1a145-68c9-456b-a0d7-ee87b49995ff",
+    "data": [
+      {
+        "text": "what is ",
+        "userDefined": false
+      },
+      {
+        "text": "polio",
+        "alias": "diseases",
+        "meta": "@diseases",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

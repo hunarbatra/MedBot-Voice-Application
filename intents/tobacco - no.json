@@ -1,0 +1,43 @@
+{
+  "id": "e076e310-b529-4293-9973-7a3702fe04c0",
+  "parentId": "fc9c909f-8979-44da-b655-b8f444e0a653",
+  "rootParentId": "fc9c909f-8979-44da-b655-b8f444e0a653",
+  "name": "tobacco - no",
+  "auto": true,
+  "contexts": [
+    "tobacco-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "tobacco.tobacco-no",
+      "affectedContexts": [
+        {
+          "name": "user-wants-more-help",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "awaiting_no",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Ok , do you need any more help?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

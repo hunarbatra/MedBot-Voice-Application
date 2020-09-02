@@ -1,0 +1,61 @@
+{
+  "id": "8bffb494-29dd-473f-9077-4f1781108d7c",
+  "parentId": "1931636f-9767-42de-b467-1b5895248892",
+  "rootParentId": "1931636f-9767-42de-b467-1b5895248892",
+  "name": "Diabetes - yes",
+  "auto": true,
+  "contexts": [
+    "Diabetes-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Diabetes.Diabetes-yes",
+      "affectedContexts": [
+        {
+          "name": "awaiting_no",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "user-wants-more-help",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "a8acca90-3049-41b6-9ddc-aa4b5c423591",
+          "required": false,
+          "dataType": "@diseases",
+          "name": "diseases",
+          "value": "$diseases",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Sure, here are some preventive measures- achieve and maintain healthy body weight, be physically active – at least 30 minutes of regular, moderate-intensity activity on most days,eat a healthy diet, avoid sugar and saturated fats intake; and avoid tobacco use – smoking increases the risk of diabetes and cardiovascular diseases.\nCan I help you with something else?"
+        },
+        {
+          "type": 0,
+          "lang": "hi",
+          "speech": "निश्चित रूप से, यहां कुछ निवारक उपाय हैं- स्वस्थ शरीर के वजन को प्राप्त करना और बनाए रखना, शारीरिक रूप से सक्रिय होना - कम से कम 30 मिनट की नियमित, मध्यम-तीव्रता की गतिविधि, अधिकांश दिनों में, एक स्वस्थ आहार खाएं, चीनी और संतृप्त वसा के सेवन से बचें; और तंबाकू के सेवन से बचें - धूम्रपान से मधुमेह और हृदय रोगों का खतरा बढ़ जाता है।\nक्या मैं आपकी कुछ और मदद कर सकता हूं?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,43 @@
+{
+  "id": "7dd7cd88-bdb5-46f9-87e7-7d022d0d5604",
+  "parentId": "0e9d7b9e-0955-4ff5-a81b-873a3b86baf3",
+  "rootParentId": "0e9d7b9e-0955-4ff5-a81b-873a3b86baf3",
+  "name": "want to know when to call dr.",
+  "auto": true,
+  "contexts": [
+    "pregnant-months-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "pregnant-months.pregnant-months-yes",
+      "affectedContexts": [
+        {
+          "name": "awaiting_no",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "user-wants-more-help",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "You should call a doctor if you are  bleeding or leaking fluid from the vagina, have sudden or severe swelling, getting severe headaches, discomfort, pain, or cramping in the lower abdomen, vomiting or have persistent nausea, feeling discomfort, pain, or burning with urination. \nOk! so before we end the counselling session here are some excercises you can do - \nwalking,\nyoga,\nPilates,\nlow-impact aerobics,\nlight weight training,\ncycling. \nWould you like information about something else?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

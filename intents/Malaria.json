@@ -1,0 +1,46 @@
+{
+  "id": "10c34b71-326b-4df5-b11d-2a0659985f98",
+  "name": "Malaria",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "Malaria-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "4f12be12-7241-4027-9d81-bd3a7c31e42e",
+          "required": false,
+          "dataType": "@diseases",
+          "name": "diseases",
+          "value": "$diseases",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Malaria is a life-threatening disease. It\u0027s typically transmitted through the bite of an infected Anopheles mosquito.Symptoms are chills, fever and sweating, body ache etc usually occurring a few weeks after being bitten.Do you want to know about its prevention?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,124 @@
+[
+  {
+    "id": "f193ad58-bb24-4dd9-a525-4870f98c28e0",
+    "data": [
+      {
+        "text": "causes of ",
+        "userDefined": false
+      },
+      {
+        "text": "anaemia",
+        "alias": "diseases",
+        "meta": "@diseases",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1cc794d4-4541-41c3-873a-d89eee410a79",
+    "data": [
+      {
+        "text": "How do I know I have ",
+        "userDefined": false
+      },
+      {
+        "text": "anaemia",
+        "alias": "diseases",
+        "meta": "@diseases",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6a3bdb10-044c-4f19-88e4-fa4923de51c9",
+    "data": [
+      {
+        "text": "what are symptoms of ",
+        "userDefined": false
+      },
+      {
+        "text": "anaemia",
+        "alias": "diseases",
+        "meta": "@diseases",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "08d0737f-26be-40c8-9165-22d5367278c6",
+    "data": [
+      {
+        "text": "symptoms of  ",
+        "userDefined": false
+      },
+      {
+        "text": "anaemia",
+        "alias": "diseases",
+        "meta": "@diseases",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "aa4c4274-633b-4209-8d31-92108a0ad24e",
+    "data": [
+      {
+        "text": "anaemia",
+        "alias": "diseases",
+        "meta": "@diseases",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e15be020-b84d-4c65-a8aa-5509bf3eb597",
+    "data": [
+      {
+        "text": "Can you tell me about ",
+        "userDefined": false
+      },
+      {
+        "text": "anaemia",
+        "alias": "diseases",
+        "meta": "@diseases",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "24e10634-235a-4f45-bc34-d0124f05d269",
+    "data": [
+      {
+        "text": "What is ",
+        "userDefined": false
+      },
+      {
+        "text": "anaemia",
+        "alias": "diseases",
+        "meta": "@diseases",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

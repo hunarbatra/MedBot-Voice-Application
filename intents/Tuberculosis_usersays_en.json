@@ -1,0 +1,204 @@
+[
+  {
+    "id": "a7e4a8ff-4c7b-4fbe-99bf-a6aef918cb3c",
+    "data": [
+      {
+        "text": "tb",
+        "alias": "diseases",
+        "meta": "@diseases",
+        "userDefined": false
+      },
+      {
+        "text": " symptoms",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5febd115-2566-4d0f-a7bc-4eb2d0f7e76f",
+    "data": [
+      {
+        "text": "give me some information about ",
+        "userDefined": false
+      },
+      {
+        "text": "tuberculosis",
+        "alias": "diseases",
+        "meta": "@diseases",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "73e36796-1804-40ef-a23e-f61ecc72759a",
+    "data": [
+      {
+        "text": "give me information about ",
+        "userDefined": false
+      },
+      {
+        "text": "tuberculosis",
+        "alias": "diseases",
+        "meta": "@diseases",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "593ddb47-f14c-476b-98da-ebf47079c2d4",
+    "data": [
+      {
+        "text": "tb",
+        "alias": "diseases",
+        "meta": "@diseases",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5d07aad1-5564-44ae-83b8-9f1bc30d8c6c",
+    "data": [
+      {
+        "text": "i want some information about ",
+        "userDefined": false
+      },
+      {
+        "text": "tb",
+        "alias": "diseases",
+        "meta": "@diseases",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "63d6dcb7-bd5e-4c0e-956d-e911e860d0af",
+    "data": [
+      {
+        "text": "can you tell me about ",
+        "userDefined": false
+      },
+      {
+        "text": "tuberculosis",
+        "alias": "diseases",
+        "meta": "@diseases",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7d722831-1704-44a2-98f1-e1763e05fc57",
+    "data": [
+      {
+        "text": "I want to know about ",
+        "userDefined": false
+      },
+      {
+        "text": "TB",
+        "alias": "diseases",
+        "meta": "@diseases",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "85560e3c-3187-4439-884f-e8227ba08149",
+    "data": [
+      {
+        "text": "what is ",
+        "userDefined": false
+      },
+      {
+        "text": "TB",
+        "alias": "diseases",
+        "meta": "@diseases",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ebc5c0d3-f7f2-4c21-99a5-60260a34f9b9",
+    "data": [
+      {
+        "text": "symptoms of ",
+        "userDefined": false
+      },
+      {
+        "text": "tuberculosis",
+        "alias": "diseases",
+        "meta": "@diseases",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "54872bea-4018-4209-b648-22ad2a5f9bf9",
+    "data": [
+      {
+        "text": "tuberculosis",
+        "alias": "diseases",
+        "meta": "@diseases",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cd9a07b8-da2c-4a31-9c70-e980d1938887",
+    "data": [
+      {
+        "text": "what is ",
+        "userDefined": false
+      },
+      {
+        "text": "tuberculosis",
+        "alias": "diseases",
+        "meta": "@diseases",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  }
+]

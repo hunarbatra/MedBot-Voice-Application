@@ -1,0 +1,46 @@
+{
+  "id": "fc9c909f-8979-44da-b655-b8f444e0a653",
+  "name": "Tobacco",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "tobacco-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "338dd86b-0953-4acb-a09f-9647a8e9c3c5",
+          "required": false,
+          "dataType": "@diseases",
+          "name": "diseases",
+          "value": "$diseases",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Tobacco products are products made entirely or partly of leaf tobacco as raw material, which are intended to be smoked, sucked, chewed or snuffed. All contain the highly addictive psychoactive ingredient, nicotine.\nTobacco use is one of the main risk for cancer, lung diseases, and cardiovascular diseases. Do you want to know how to avoid tobacco consumption?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

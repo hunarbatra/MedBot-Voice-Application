@@ -1,0 +1,43 @@
+{
+  "id": "f80fac94-2a5a-4dfe-8786-0f0e0ea2432c",
+  "parentId": "ccb90ed2-8754-4386-aebc-ff6793dbc08f",
+  "rootParentId": "ccb90ed2-8754-4386-aebc-ff6793dbc08f",
+  "name": "Alcohol - yes",
+  "auto": true,
+  "contexts": [
+    "Alcohol-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Alcohol.Alcohol-yes",
+      "affectedContexts": [
+        {
+          "name": "user-wants-more-help",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "awaiting_no",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Ok, following are the measures to stop drinking alcohol -  Counseling , Medication , start practicing yoga. Join rehabs if you still cannot leave it. Do you need help with anything else?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

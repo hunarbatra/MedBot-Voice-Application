@@ -1,0 +1,9 @@
+{
+  "id": "629bcf5b-b65a-48c3-8a84-0250c201e70c",
+  "name": "states",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

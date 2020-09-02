@@ -1,0 +1,61 @@
+{
+  "id": "98c664c2-2d4b-4ab7-afed-4fe69cf11e41",
+  "parentId": "d3ceb407-f5bc-4f86-844b-7c68d56e7477",
+  "rootParentId": "d3ceb407-f5bc-4f86-844b-7c68d56e7477",
+  "name": "Bee sting - yes",
+  "auto": true,
+  "contexts": [
+    "Beesting-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Beesting.Beesting-yes",
+      "affectedContexts": [
+        {
+          "name": "user-wants-more-help",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "awaiting_no",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "92fc6c2f-07b0-4c55-9589-8c96929229ee",
+          "required": false,
+          "dataType": "@diseases",
+          "name": "diseases",
+          "value": "$diseases",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Apply honey or baking soda to the affected area and cover with bandage.Anti-inflammatories such as Motrin or Advil can be applied to the affected area to reduce discomfort.Is there something else I can do for you?"
+        },
+        {
+          "type": 0,
+          "lang": "hi",
+          "speech": "प्रभावित क्षेत्र पर शहद या बेकिंग सोडा लागू करें और पट्टी के साथ कवर करें। असुविधा को कम करने के लिए मोतिन या एडविल जैसे मोनीट्री या एडविल को प्रभावित क्षेत्र पर लगाया जा सकता है। क्या मैं आपके लिए कुछ और कर सकता हूं?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

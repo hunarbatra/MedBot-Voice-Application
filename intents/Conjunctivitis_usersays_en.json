@@ -1,0 +1,132 @@
+[
+  {
+    "id": "f89a300f-9b43-4aa4-9fb6-14e52c914d18",
+    "data": [
+      {
+        "text": "Tell me about ",
+        "userDefined": false
+      },
+      {
+        "text": "conjunctivitis",
+        "alias": "diseases",
+        "meta": "@diseases",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7d3da1f4-e51d-4bf0-9736-573326da9467",
+    "data": [
+      {
+        "text": "How do I know that I have ",
+        "userDefined": false
+      },
+      {
+        "text": "conjunctivitis",
+        "alias": "diseases",
+        "meta": "@diseases",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f07b49e0-7de9-419a-aa8a-f6fd58b03f57",
+    "data": [
+      {
+        "text": "symptoms of ",
+        "userDefined": false
+      },
+      {
+        "text": "conjunctivitis",
+        "alias": "diseases",
+        "meta": "@diseases",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "640e4659-c45c-4710-8c01-8a630d40ae1f",
+    "data": [
+      {
+        "text": "causes of ",
+        "userDefined": false
+      },
+      {
+        "text": "conjunctivitis",
+        "alias": "diseases",
+        "meta": "@diseases",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "230db5c5-f2a4-4d39-b757-362b92b5dda4",
+    "data": [
+      {
+        "text": "info on ",
+        "userDefined": false
+      },
+      {
+        "text": "conjunctivitis",
+        "alias": "diseases",
+        "meta": "@diseases",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8b25faa2-48da-47f7-85fb-2db8503facb5",
+    "data": [
+      {
+        "text": "What is ",
+        "userDefined": false
+      },
+      {
+        "text": "conjunctivitis",
+        "alias": "diseases",
+        "meta": "@diseases",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "90a570a9-42ee-40b3-989c-94ba6d4fdd8a",
+    "data": [
+      {
+        "text": "conjunctivitis",
+        "alias": "diseases",
+        "meta": "@diseases",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

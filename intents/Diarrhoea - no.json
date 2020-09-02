@@ -1,0 +1,43 @@
+{
+  "id": "372f5ead-cd2b-4d3e-9ed1-57324e53ac00",
+  "parentId": "60daad10-5a5a-4c4c-a414-0480cb5e9e1a",
+  "rootParentId": "60daad10-5a5a-4c4c-a414-0480cb5e9e1a",
+  "name": "Diarrhoea - no",
+  "auto": true,
+  "contexts": [
+    "Diarrhoea-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Diarrhoea.Diarrhoea-no",
+      "affectedContexts": [
+        {
+          "name": "awaiting_no",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "user-wants-more-help",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Okay, would you like my help with something else?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

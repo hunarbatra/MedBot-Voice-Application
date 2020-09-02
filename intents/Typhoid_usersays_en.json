@@ -1,0 +1,124 @@
+[
+  {
+    "id": "832b67dd-b43b-4a0a-94a0-1bbe18eddbb8",
+    "data": [
+      {
+        "text": "causes of ",
+        "userDefined": false
+      },
+      {
+        "text": "typhoid",
+        "alias": "diseases",
+        "meta": "@diseases",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4ba6d7d3-84c4-4145-b992-4d0b87a8dc90",
+    "data": [
+      {
+        "text": "info on ",
+        "userDefined": false
+      },
+      {
+        "text": "typhoid",
+        "alias": "diseases",
+        "meta": "@diseases",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8ad90284-3904-4a7d-98d6-3b88fd23d978",
+    "data": [
+      {
+        "text": "tell me some info on ",
+        "userDefined": false
+      },
+      {
+        "text": "typhoid",
+        "alias": "diseases",
+        "meta": "@diseases",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5b63cc0b-0d74-4d65-8f65-87ea2cb3a3d3",
+    "data": [
+      {
+        "text": "typhoid",
+        "alias": "diseases",
+        "meta": "@diseases",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4bb0569b-051e-4088-8d86-22d0a073c884",
+    "data": [
+      {
+        "text": "symptoms of ",
+        "userDefined": false
+      },
+      {
+        "text": "typhoid",
+        "alias": "diseases",
+        "meta": "@diseases",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "942b2977-aee2-4ec7-8de5-d702601266fa",
+    "data": [
+      {
+        "text": "what is ",
+        "userDefined": false
+      },
+      {
+        "text": "typhoid",
+        "alias": "diseases",
+        "meta": "@diseases",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0112d027-38f3-4bf9-9bc1-af0306c7e2eb",
+    "data": [
+      {
+        "text": "tell me about ",
+        "userDefined": false
+      },
+      {
+        "text": "typhoid",
+        "alias": "diseases",
+        "meta": "@diseases",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

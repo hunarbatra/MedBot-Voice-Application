@@ -1,0 +1,134 @@
+[
+  {
+    "id": "5041f632-a54f-4e80-b2fd-983005c374c2",
+    "data": [
+      {
+        "text": "no  thank you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fb951746-08a6-4b84-b4b5-19ce70bed1a6",
+    "data": [
+      {
+        "text": "nothing",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "60140da9-086d-44fe-8e34-5a3670ec8cb2",
+    "data": [
+      {
+        "text": "bye",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "0a47ca65-3c0a-4e91-8168-3c379fce699f",
+    "data": [
+      {
+        "text": "No I dont",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7b2b4d6f-f7a4-42e8-8641-665d99f8def0",
+    "data": [
+      {
+        "text": "No thanks bye",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bf8c4672-7eb5-434c-a471-bb720c0aa54b",
+    "data": [
+      {
+        "text": "No thanks",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "47df1cce-aeeb-4860-a6f0-25df1fcab31e",
+    "data": [
+      {
+        "text": "Naah",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9a92a03a-be56-45a9-a02e-ec4cd0e0c87e",
+    "data": [
+      {
+        "text": "Nope",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9c909913-608b-4646-9158-e68a582cb91b",
+    "data": [
+      {
+        "text": "No its ok",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f944b118-b6a9-4204-9125-9228e41c7ca0",
+    "data": [
+      {
+        "text": "No",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 0
+  },
+  {
+    "id": "f019000f-c8f3-4164-b6e6-c754ac351bb3",
+    "data": [
+      {
+        "text": "no",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  }
+]

@@ -1,0 +1,56 @@
+{
+  "id": "b6a55dce-1e43-4a24-840a-bccecd57ab48",
+  "parentId": "df3c0dee-b2d1-4212-b565-f4fa2c4e2211",
+  "rootParentId": "df3c0dee-b2d1-4212-b565-f4fa2c4e2211",
+  "name": "Snake bite - yes",
+  "auto": true,
+  "contexts": [
+    "Snakebite-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Snakebite.Snakebite-yes",
+      "affectedContexts": [
+        {
+          "name": "user-wants-more-help",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "awaiting_no",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "f259b2c3-3919-42f9-bf02-229ee99557b1",
+          "required": false,
+          "dataType": "@diseases",
+          "name": "diseases",
+          "value": "$diseases",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Stop the lymphatic spread of venom by bandaging firmly,with splint and immobilise.  Avoid washing the bite area because any venom left on the skin can help identify the snake.Emergency medical care should be obtained as soon as possible.Is there something else I can do for you?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

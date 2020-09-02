@@ -1,0 +1,56 @@
+{
+  "id": "39106907-e805-464a-a0a6-122492a43d9a",
+  "parentId": "b59fd00b-ceac-4186-9ec5-7376c07b0774",
+  "rootParentId": "b59fd00b-ceac-4186-9ec5-7376c07b0774",
+  "name": "Cholera - yes",
+  "auto": true,
+  "contexts": [
+    "Cholera-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Cholera.Cholera-yes",
+      "affectedContexts": [
+        {
+          "name": "awaiting_no",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "user-wants-more-help",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "4540310c-94a0-436e-a4b1-fda423adcef1",
+          "required": false,
+          "dataType": "@diseases",
+          "name": "diseases",
+          "value": "$diseases",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Sure! Here are a few: Drink safe and clean water,\nWash your hands frequently with soap and clean water,\nProper hygiene and sanitation,\nCook food well and cover it properly. Would you like to know something else?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

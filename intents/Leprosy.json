@@ -1,0 +1,51 @@
+{
+  "id": "c71a3624-68b2-4871-a1a9-5bb11fe00336",
+  "name": "Leprosy",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "user-wants-more-help",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "awaiting_no",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "90370dcc-02b2-4375-b041-f6d6ceae57f0",
+          "required": false,
+          "dataType": "@diseases",
+          "name": "diseases",
+          "value": "$diseases",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Leprosy is an infectious disease that causes severe, disfiguring skin sores and nerve damage in the arms, legs, and skin areas around the body.\nSymptoms include light-coloured or red skin patches with reduced sensation, numbness and weakness in hands and feet.\nHowever, leprosy is actually not that contagious. You can catch it only if you come into close and repeated contact with nose and mouth droplets from someone with untreated leprosy.Do want me to tell you something else?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

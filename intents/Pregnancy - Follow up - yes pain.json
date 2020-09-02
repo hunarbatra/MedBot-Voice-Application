@@ -1,0 +1,40 @@
+{
+  "id": "67649935-d0ff-4f9d-89f4-804f79f55ccf",
+  "name": "Pregnancy - Follow up - yes pain",
+  "auto": true,
+  "contexts": [
+    "awaiting_yes_pod"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "awaiting_months",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "hi",
+          "speech": "इसके कारण हो सकते हैं- समय से पहले प्रसव, प्लेसेंटल एब्डोमिनल, यूरिनरी ट्रैक्ट इंफेक्शन, मिसकैरेज आदि। अगर दर्द असहनीय हो जाए तो कृपया डॉक्टर के पास जाएँ। क्या आप बता सकते हैं कि आप कितने महीने की गर्भवती हैं?"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "The reasons for this can be- premature labor, placental abruption, urinary tract infection, miscarriage,etc. Kindly visit doctor if pain becomes unbearable. can you tell me how many months pregnant are you?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

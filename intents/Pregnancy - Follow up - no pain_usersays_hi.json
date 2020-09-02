@@ -1,0 +1,38 @@
+[
+  {
+    "id": "abec3527-1b46-431d-af68-64e1089c8520",
+    "data": [
+      {
+        "text": "  नहीं",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d0db1c38-71fd-4b1b-89c9-197ae2b2a90a",
+    "data": [
+      {
+        "text": " ना",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f102ca6b-f295-4adf-b11a-04851f48234e",
+    "data": [
+      {
+        "text": "बिल्कुल नहीं",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

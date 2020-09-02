@@ -1,0 +1,180 @@
+[
+  {
+    "id": "aad99611-b888-47e4-a90e-9b441877c7a2",
+    "data": [
+      {
+        "text": "about ",
+        "userDefined": false
+      },
+      {
+        "text": "dengue",
+        "alias": "diseases",
+        "meta": "@diseases",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b13a9f35-6df3-41b6-a3fe-fc1017f81d57",
+    "data": [
+      {
+        "text": "can you tell me about ",
+        "userDefined": false
+      },
+      {
+        "text": "dengue",
+        "alias": "diseases",
+        "meta": "@diseases",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dc080b75-3966-4cc4-b612-c41916233806",
+    "data": [
+      {
+        "text": "I want to know about ",
+        "userDefined": false
+      },
+      {
+        "text": "dengue",
+        "alias": "diseases",
+        "meta": "@diseases",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f12f1c04-17a5-44d1-af97-43c11d3b711c",
+    "data": [
+      {
+        "text": "tell me about ",
+        "userDefined": false
+      },
+      {
+        "text": "dengue",
+        "alias": "diseases",
+        "meta": "@diseases",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a461200c-7907-4d75-90f4-0755a53d3344",
+    "data": [
+      {
+        "text": "can you tell me what ",
+        "userDefined": false
+      },
+      {
+        "text": "dengue",
+        "alias": "diseases",
+        "meta": "@diseases",
+        "userDefined": true
+      },
+      {
+        "text": " is?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0c8bea1e-dbf9-4d14-ba0c-f5fce35cd871",
+    "data": [
+      {
+        "text": "what is ",
+        "userDefined": false
+      },
+      {
+        "text": "dengue",
+        "alias": "diseases",
+        "meta": "@diseases",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fe867a4f-b75a-41e7-ab4b-94bb69c6d132",
+    "data": [
+      {
+        "text": "can i know about ",
+        "userDefined": false
+      },
+      {
+        "text": "dengue",
+        "alias": "diseases",
+        "meta": "@diseases",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0d746d01-c94e-4ce6-97ff-2c6591c90cd1",
+    "data": [
+      {
+        "text": "give me information about ",
+        "userDefined": false
+      },
+      {
+        "text": "dengue",
+        "alias": "diseases",
+        "meta": "@diseases",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cd1a5934-b01c-414d-a005-a84c5ec32087",
+    "data": [
+      {
+        "text": "please tell me about ",
+        "userDefined": false
+      },
+      {
+        "text": "dengue",
+        "alias": "diseases",
+        "meta": "@diseases",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  }
+]

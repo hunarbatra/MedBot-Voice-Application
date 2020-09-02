@@ -1,0 +1,46 @@
+{
+  "id": "c75f7be1-fe8d-497d-b176-1992a68f3e2b",
+  "name": "Kala azar",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "Kalaazar-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "b994dc1e-f96a-4649-b090-a29d72554d56",
+          "required": false,
+          "dataType": "@diseases",
+          "name": "diseases",
+          "value": "$diseases",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Kala Azar is spread by sandfly bites. This type of leishmaniasis affects the internal organs, usually the spleen, liver and bone marrow.Symptoms include fever, weight loss and swelling of the spleen or liver,pain in abdomen,loss of appetite etc.Do you want to know about its prevention?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

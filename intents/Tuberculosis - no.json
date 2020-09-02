@@ -1,0 +1,43 @@
+{
+  "id": "91a18da2-2a7a-4af5-8f1b-ab9d16405038",
+  "parentId": "8092485a-9d9e-4bc1-a1f3-2658160989b3",
+  "rootParentId": "8092485a-9d9e-4bc1-a1f3-2658160989b3",
+  "name": "Tuberculosis - no",
+  "auto": true,
+  "contexts": [
+    "Tuberculosis-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Tuberculosis.Tuberculosis-no",
+      "affectedContexts": [
+        {
+          "name": "user-wants-more-help",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "awaiting_no",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Ok , would you like to know about anything else?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

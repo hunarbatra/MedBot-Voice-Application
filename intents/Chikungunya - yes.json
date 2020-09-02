@@ -1,0 +1,56 @@
+{
+  "id": "c5f4fa78-955e-4889-a48e-f95d54adb14c",
+  "parentId": "d6d32c97-34a6-4a3e-bd7e-a02763f1be17",
+  "rootParentId": "d6d32c97-34a6-4a3e-bd7e-a02763f1be17",
+  "name": "Chikungunya - yes",
+  "auto": true,
+  "contexts": [
+    "Chikungunya-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Chikungunya.Chikungunya-yes",
+      "affectedContexts": [
+        {
+          "name": "user-wants-more-help",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "awaiting_no",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "8395724c-4222-476f-8952-21184405705f",
+          "required": false,
+          "dataType": "@diseases",
+          "name": "diseases",
+          "value": "$diseases",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Sure!  Here are a few preventive measures. Use insect repellent containing Picaridin, oil of lemon eucalyptus on exposed skin. Always follow the directions on the package.\nWear long sleeves and pants (ideally treat clothes with permethrin or another repellent).\nHave secure screens on windows and doors to keep mosquitoes out. Would you like to know something else?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

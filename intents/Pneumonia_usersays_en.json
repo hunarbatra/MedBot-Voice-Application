@@ -1,0 +1,240 @@
+[
+  {
+    "id": "1d407dd7-e477-4416-bd42-04175abb1a64",
+    "data": [
+      {
+        "text": "what are symptoms of ",
+        "userDefined": false
+      },
+      {
+        "text": "pneumonia",
+        "alias": "diseases",
+        "meta": "@diseases",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "27373f1e-418f-4b4b-ad8e-c93627f9e7a6",
+    "data": [
+      {
+        "text": "what is ",
+        "userDefined": false
+      },
+      {
+        "text": "pneumonia",
+        "alias": "diseases",
+        "meta": "@diseases",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3c9d53c6-6e45-4c0a-aee6-20ada0044029",
+    "data": [
+      {
+        "text": "can you please tell me about ",
+        "userDefined": false
+      },
+      {
+        "text": "pneumonia",
+        "alias": "diseases",
+        "meta": "@diseases",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "31ce228a-75ff-48ef-93ca-e8a770080407",
+    "data": [
+      {
+        "text": "pneumonia",
+        "alias": "diseases",
+        "meta": "@diseases",
+        "userDefined": false
+      },
+      {
+        "text": " symptoms",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c5ce9425-a71c-450c-a0ea-9cd82d811b1e",
+    "data": [
+      {
+        "text": "give me information about ",
+        "userDefined": false
+      },
+      {
+        "text": "pneumonia",
+        "alias": "diseases",
+        "meta": "@diseases",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3ea1feaa-5458-4f2f-bd35-29da508e2e2d",
+    "data": [
+      {
+        "text": "tell me about ",
+        "userDefined": false
+      },
+      {
+        "text": "pneumonia",
+        "alias": "diseases",
+        "meta": "@diseases",
+        "userDefined": false
+      },
+      {
+        "text": " symptoms",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "67ff2aff-587e-4f08-b703-50b0aa8d9279",
+    "data": [
+      {
+        "text": "symptoms of ",
+        "userDefined": false
+      },
+      {
+        "text": "pneumonia",
+        "alias": "diseases",
+        "meta": "@diseases",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "22c94b73-c496-4ef7-98ad-005428391fa0",
+    "data": [
+      {
+        "text": "info about ",
+        "userDefined": false
+      },
+      {
+        "text": "pneumonia",
+        "alias": "diseases",
+        "meta": "@diseases",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "59a1780b-4cab-465c-85d0-f15ae9ccb997",
+    "data": [
+      {
+        "text": "give me some information about ",
+        "userDefined": false
+      },
+      {
+        "text": "pneumonia",
+        "alias": "diseases",
+        "meta": "@diseases",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "41b60ff9-d54e-4bf7-af16-8fa78eb4e774",
+    "data": [
+      {
+        "text": "i want to know about ",
+        "userDefined": false
+      },
+      {
+        "text": "pneumonia",
+        "alias": "diseases",
+        "meta": "@diseases",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0a9cd33e-9085-49bb-bf15-c334312721e4",
+    "data": [
+      {
+        "text": "pneumonia",
+        "alias": "diseases",
+        "meta": "@diseases",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "63056611-fb11-40d5-84a8-a34861b9ba08",
+    "data": [
+      {
+        "text": "tell me about ",
+        "userDefined": false
+      },
+      {
+        "text": "pneumonia",
+        "alias": "diseases",
+        "meta": "@diseases",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e1cca2f6-0916-4f6f-bad4-7922c31308dc",
+    "data": [
+      {
+        "text": "what is ",
+        "userDefined": false
+      },
+      {
+        "text": "pneumonia",
+        "alias": "diseases",
+        "meta": "@diseases",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

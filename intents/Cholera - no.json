@@ -1,0 +1,43 @@
+{
+  "id": "4f58dcc9-49d5-497c-a04b-da9f8ffd5b31",
+  "parentId": "b59fd00b-ceac-4186-9ec5-7376c07b0774",
+  "rootParentId": "b59fd00b-ceac-4186-9ec5-7376c07b0774",
+  "name": "Cholera - no",
+  "auto": true,
+  "contexts": [
+    "Cholera-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Cholera.Cholera-no",
+      "affectedContexts": [
+        {
+          "name": "user-wants-more-help",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "awaiting_no",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Okay, can I help you with something else?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

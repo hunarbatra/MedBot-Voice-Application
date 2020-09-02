@@ -1,0 +1,63 @@
+{
+  "id": "39e48678-7632-4681-8bd0-854aab2b00fe",
+  "name": "Hepatitis",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "Hepatitis-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "75f95c30-c9dc-4bfa-b705-aec8951fcc93",
+          "required": false,
+          "dataType": "@diseases",
+          "name": "diseases",
+          "value": "$diseases",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "809f4d2e-f76a-4cd7-94a6-2f7773d0e668",
+          "required": false,
+          "dataType": "@sys.unit-information-name",
+          "name": "unit-information-name",
+          "value": "$unit-information-name",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "hi",
+          "speech": "हेपेटाइटिस शब्द का उपयोग जिगर की सूजन का वर्णन करने के लिए किया जाता है। यह वायरल संक्रमण के कारण हो सकता है या जब जिगर शराब जैसे हानिकारक पदार्थों के संपर्क में आता है। हेपेटाइटिस ए हेपेटाइटिस ए वायरस के कारण होता है। यह वायरल हैपेटाइटिस का सबसे आम प्रकार है। यह आम तौर पर उन क्षेत्रों में देखा जाता है जहां स्वच्छता और सीवेज निपटान खराब हैं। हेपेटाइटिस बी हेपेटाइटिस बी वायरस के कारण होता है। यह रक्त और शरीर के तरल पदार्थ, जैसे कि वीर्य और योनि के तरल पदार्थ में पाया जा सकता है, इसलिए यह आमतौर पर असुरक्षित यौन संबंध के दौरान या दवाओं को इंजेक्ट करने के लिए सुइयों को साझा करके फैलता है। लक्षणों में मांसपेशियों और जोड़ों में दर्द, एक उच्च तापमान बुखार, पीलिया या हो सकता है\n अस्वस्थ महसूस करने की एक सामान्य भावना। क्या आप इसके निवारक उपायों के बारे में जानना चाहते हैं?"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Hepatitis is a term used to describe inflammation (swelling) of the liver. It can be caused due to viral infection or when liver is exposed to harmful substances such as alcohol. Hepatitis A is caused by the hepatitis A virus. It is the most common type of viral hepatitis. It is generally seen in the areas where sanitation and sewage disposal are poor.Hepatitis B is caused by the hepatitis B virus. This can be found in blood and body fluids, such as semen and vaginal fluids, so it  generally spread during unprotected sex or by sharing needles to inject drugs. Symptoms may include Muscle and joint pain, A high temperature fever,  Jaundice or\n A general sense of feeling unwell. Do you want to know about its preventive measures?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

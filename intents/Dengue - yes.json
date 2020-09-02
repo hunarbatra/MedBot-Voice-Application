@@ -1,0 +1,61 @@
+{
+  "id": "8bc08421-1ee4-404d-8e6a-c8db6f4bdaba",
+  "parentId": "a98c74c6-5344-4e55-9296-b8380981000b",
+  "rootParentId": "a98c74c6-5344-4e55-9296-b8380981000b",
+  "name": "Dengue - yes",
+  "auto": true,
+  "contexts": [
+    "Dengue-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Dengue.Dengue-yes",
+      "affectedContexts": [
+        {
+          "name": "awaiting_no",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "user-wants-more-help",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "9a1f898d-d92b-44f2-8135-e478f04314c6",
+          "required": false,
+          "dataType": "@diseases",
+          "name": "diseases",
+          "value": "$diseases",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "hi",
+          "speech": "काटे जाने से बचने के लिए कीट repellents और मच्छरदानी का उपयोग करें। बाहर जाते समय लंबी बाजू के कपड़े और लंबी पतलून पहनें।\nसबसे अच्छा निवारक उपाय उन जगहों को साफ करना है जहां मच्छर अपने अंडे देता है। दरवाजे और खिड़कियों को कवर करें। क्या मैं आपकी कुछ और मदद कर सकता हूं?"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Use insect repellents and mosquito nets to avoid being bitten. Wear long-sleeved clothes and long trousers while going outdoors.\nThe best preventive measure is to clean the places where the mosquito lays their eggs, primarily artificial containers that store water.The risk of being bitten by mosquitoes can also be reduced by screening the windows and doors. Can I help you with something else?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

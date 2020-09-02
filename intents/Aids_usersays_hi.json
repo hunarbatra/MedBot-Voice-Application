@@ -1,0 +1,26 @@
+[
+  {
+    "id": "ce684d2e-2746-4aa5-991c-7b0d42125631",
+    "data": [
+      {
+        "text": "एड्स",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8b258b89-1f9a-4d3a-bc9f-ee357a17a95d",
+    "data": [
+      {
+        "text": "आपको कैसे पता चलेगा कि किसी व्यक्ति को एड्स है?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

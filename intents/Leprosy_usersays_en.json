@@ -1,0 +1,124 @@
+[
+  {
+    "id": "195e4fa9-a7e6-4ad4-bd89-7e0ef2e858cc",
+    "data": [
+      {
+        "text": "leprosy",
+        "alias": "diseases",
+        "meta": "@diseases",
+        "userDefined": false
+      },
+      {
+        "text": " precaution",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e0d7c45c-9959-4b6c-89bd-a1c0bdc0c8c6",
+    "data": [
+      {
+        "text": "prevention of ",
+        "userDefined": false
+      },
+      {
+        "text": "leprosy",
+        "alias": "diseases",
+        "meta": "@diseases",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7db6cd8e-aee3-4c59-886f-35225a72084c",
+    "data": [
+      {
+        "text": "symptoms of ",
+        "userDefined": false
+      },
+      {
+        "text": "leprosy",
+        "alias": "diseases",
+        "meta": "@diseases",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dad6f76e-7484-4799-bc6f-a47f4878b096",
+    "data": [
+      {
+        "text": "causes of ",
+        "userDefined": false
+      },
+      {
+        "text": "leprosy",
+        "alias": "diseases",
+        "meta": "@diseases",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "2ee21857-51f4-4f37-95bc-ceebd809e22f",
+    "data": [
+      {
+        "text": "tell me about ",
+        "userDefined": false
+      },
+      {
+        "text": "leprosy",
+        "alias": "diseases",
+        "meta": "@diseases",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3205e3d7-8da1-4813-942a-9b27ba75617b",
+    "data": [
+      {
+        "text": "what is ",
+        "userDefined": false
+      },
+      {
+        "text": "leprosy",
+        "alias": "diseases",
+        "meta": "@diseases",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f6e12b64-1a89-4c4a-9230-4356cbfbc9ac",
+    "data": [
+      {
+        "text": "leprosy",
+        "alias": "diseases",
+        "meta": "@diseases",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

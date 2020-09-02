@@ -1,0 +1,110 @@
+[
+  {
+    "id": "1f3aacda-d4b4-498a-b5b0-073c0cdc04a9",
+    "data": [
+      {
+        "text": "Hi, I am an expecting mother. Can you give me some advice?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "250ad8de-8e65-4a84-a7a1-721cd5e1bde3",
+    "data": [
+      {
+        "text": "I am pregnant. Want some help",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9154e0dd-5724-4ae7-84d4-12133c0e87b6",
+    "data": [
+      {
+        "text": "can you help me? I am an expecting  mother.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4a42435b-f28c-431a-baf3-d92a95c0b7c8",
+    "data": [
+      {
+        "text": "I am going to have a baby",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7c36915e-717a-4842-ba92-4343afe5f76c",
+    "data": [
+      {
+        "text": "I am pregnant",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3a318655-6f23-492e-bebd-366ee6a3f982",
+    "data": [
+      {
+        "text": "I want pregnancy advice",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d89d7fe0-e158-4476-a334-d603ad128744",
+    "data": [
+      {
+        "text": "Pregnancy advice please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1a863357-ef19-4693-87ef-470b29ceb42d",
+    "data": [
+      {
+        "text": "What should I do during pregnancy?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "21795a6e-f9bf-40a2-9ff2-fd557a42912b",
+    "data": [
+      {
+        "text": "Can you give me pregnancy tips or advice?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

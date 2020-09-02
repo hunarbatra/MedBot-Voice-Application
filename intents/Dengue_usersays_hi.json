@@ -1,0 +1,50 @@
+[
+  {
+    "id": "6ae3e8de-57fc-40dc-9422-cccd858d3ca5",
+    "data": [
+      {
+        "text": "मुझे कैसे पता चलेगा कि मुझे डेंगू है",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "22ee2cea-3d33-4efe-bb49-f50e64a7e1ea",
+    "data": [
+      {
+        "text": "डेंगू के लक्षण",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "151aaa48-1ef6-431b-893d-1b731f5e7d04",
+    "data": [
+      {
+        "text": "मुझे डेंगू के बारे में बताओ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "84780188-7850-423b-aa5e-1413f4c8f5e2",
+    "data": [
+      {
+        "text": "डेंगू क्या है",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

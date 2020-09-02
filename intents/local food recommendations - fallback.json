@@ -1,0 +1,54 @@
+{
+  "id": "0e325194-11d0-4577-b0ac-d3233e61104a",
+  "parentId": "2d73d340-037b-4f7f-a159-99f586b18325",
+  "rootParentId": "2d73d340-037b-4f7f-a159-99f586b18325",
+  "name": "local food recommendations - fallback",
+  "auto": false,
+  "contexts": [
+    "awaiting_state_name",
+    "localfoodrecommendations-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "localfoodrecommendations.localfoodrecommendations-fallback",
+      "affectedContexts": [
+        {
+          "name": "awaiting_state_name",
+          "parameters": {},
+          "lifespan": 1
+        },
+        {
+          "name": "user-wants-more-help",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "awaiting_no",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Oops, I didn\u0027t get that. Can you please tell me which state in India do you live in?"
+        },
+        {
+          "type": 0,
+          "lang": "hi",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": true,
+  "events": []
+}

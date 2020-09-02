@@ -1,0 +1,46 @@
+{
+  "id": "6a5a9ade-ecbb-4d45-adaa-4613942ca6c3",
+  "name": "Tetanus",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "Tetanus-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "aa1f60f2-3bdc-467c-9c76-e71915aa5e0d",
+          "required": false,
+          "dataType": "@diseases",
+          "name": "diseases",
+          "value": "$diseases",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Tetanus is a medical condition characterized by a prolonged contraction of skeletal muscle fibers.The infection causes painful tightening of the muscles, usually all over the body. It can lead to \"locking\" of the jaw, which makes it impossible to open mouth or swallow. If this happens, person can die due to suffocation. Some symptoms include: High temperature ,Sweating,Rapid heartbeat and High blood pressure. Do you want to know about its preventive measures?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,43 @@
+{
+  "id": "c07138c1-5b8f-4aea-8acc-e906da376ff5",
+  "parentId": "fc9c909f-8979-44da-b655-b8f444e0a653",
+  "rootParentId": "fc9c909f-8979-44da-b655-b8f444e0a653",
+  "name": "Tobacco - yes",
+  "auto": true,
+  "contexts": [
+    "tobacco-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "tobacco.tobacco-yes",
+      "affectedContexts": [
+        {
+          "name": "user-wants-more-help",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "awaiting_no",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Okay. Here are certain ways to stop tobacco addiction- make a Quit Plan, Stay Busy, Avoid Smoking Triggers, Use nicotine gum, Go to rehabilitation centres for help. Do you need information on anything else?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

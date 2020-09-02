@@ -1,0 +1,250 @@
+[
+  {
+    "id": "629d1532-1c29-4e11-ad18-72efb92d05cc",
+    "data": [
+      {
+        "text": "Tell me about food recommendations in ",
+        "userDefined": false
+      },
+      {
+        "text": "Gujrat",
+        "alias": "states",
+        "meta": "@states",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b3827f6a-c760-425c-a9f1-2cfb3f9feb47",
+    "data": [
+      {
+        "text": "Can you tell me about local food recommendations in ",
+        "userDefined": false
+      },
+      {
+        "text": "Rajasthan",
+        "alias": "states",
+        "meta": "@states",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "09dace8c-819f-44ea-a93a-58a52c83cff0",
+    "data": [
+      {
+        "text": "Could you please tell me about some local food recommendations in ",
+        "userDefined": false
+      },
+      {
+        "text": "West Bengal",
+        "alias": "states",
+        "meta": "@states",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "65cb6a9a-6924-4f72-b8e2-6e1930911960",
+    "data": [
+      {
+        "text": "Can you tell me local food recommendations for ",
+        "userDefined": false
+      },
+      {
+        "text": "Goa",
+        "alias": "states",
+        "meta": "@states",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ca00ed0d-593f-4191-b833-c1b243ee73d3",
+    "data": [
+      {
+        "text": "Tell me local food recommendations for ",
+        "userDefined": false
+      },
+      {
+        "text": "Assam",
+        "alias": "states",
+        "meta": "@states",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ff38298c-ced1-4596-88b2-bf77a0329b8f",
+    "data": [
+      {
+        "text": "I belong to ",
+        "userDefined": false
+      },
+      {
+        "text": "Mizoram",
+        "alias": "states",
+        "meta": "@states",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c093a919-3866-42ac-8451-8066658e1a89",
+    "data": [
+      {
+        "text": "I am from ",
+        "userDefined": false
+      },
+      {
+        "text": "Jammu and Kashmir",
+        "alias": "states",
+        "meta": "@states",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9b698501-27a1-4519-b4e5-266c0cada8ae",
+    "data": [
+      {
+        "text": "Myself from ",
+        "userDefined": false
+      },
+      {
+        "text": "Punjab",
+        "alias": "states",
+        "meta": "@states",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "de8fb2c6-716e-4c9f-9ed3-3a424ce063fa",
+    "data": [
+      {
+        "text": "I live in ",
+        "userDefined": false
+      },
+      {
+        "text": "Tamil Nadu",
+        "alias": "states",
+        "meta": "@states",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7ec852b5-6832-4067-9196-75d63108df9f",
+    "data": [
+      {
+        "text": "I am from ",
+        "userDefined": false
+      },
+      {
+        "text": "Maharashtra",
+        "alias": "states",
+        "meta": "@states",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1b3b1dc4-1566-4758-8910-b9d1b94b9729",
+    "data": [
+      {
+        "text": "I am from ",
+        "userDefined": false
+      },
+      {
+        "text": "Delhi",
+        "alias": "states",
+        "meta": "@states",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ab0e6f23-ead6-401c-b95f-f08dabe018a2",
+    "data": [
+      {
+        "text": "I am from ",
+        "userDefined": false
+      },
+      {
+        "text": "@states",
+        "alias": "states",
+        "meta": "@states",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cf0b26ce-d3f1-495d-a3d2-f7fa00a869f5",
+    "data": [
+      {
+        "text": "I live in ",
+        "userDefined": false
+      },
+      {
+        "text": "@states.",
+        "alias": "states",
+        "meta": "@states",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9f5809d9-d85c-43ec-975b-0a3556ae4a6c",
+    "data": [
+      {
+        "text": "@states",
+        "alias": "states",
+        "meta": "@states",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "id": "32d7d204-83aa-4f87-962b-f2d53258271c",
+    "data": [
+      {
+        "text": "क्या आप मुझे गर्भावस्था के सुझाव या सलाह दे सकते हैं?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "233eee08-b53d-4327-baad-163287c1557a",
+    "data": [
+      {
+        "text": "मुझे गर्भावस्था की सलाह चाहिए",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "88ff2b62-ccf6-49fe-bc1f-3002c42e8338",
+    "data": [
+      {
+        "text": "मुझे बच्चा होने वाला है",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2b41594e-ec4b-4fbd-980c-b5a16c0a58df",
+    "data": [
+      {
+        "text": "मैं गर्भवती हूँ। कुछ मदद चाहिए",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "41eba547-9481-4d37-86ae-6b021611d182",
+    "data": [
+      {
+        "text": "मैं गर्भवती हूँ।",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ab2515dc-6cb9-4b04-ac16-97a47a0cf18b",
+    "data": [
+      {
+        "text": "मैं माँ बनने वाली हूँ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3b9c79cf-1e8a-45d1-886e-9196409b61fd",
+    "data": [
+      {
+        "text": "गर्भावस्था",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,56 @@
+{
+  "id": "5f993596-021a-46a8-8f6d-5ecc0343e9fa",
+  "parentId": "015320fb-a2ab-4943-8978-4370e4070c24",
+  "rootParentId": "015320fb-a2ab-4943-8978-4370e4070c24",
+  "name": "Measles - yes",
+  "auto": true,
+  "contexts": [
+    "Measles-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Measles.Measles-yes",
+      "affectedContexts": [
+        {
+          "name": "user-wants-more-help",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "awaiting_no",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "42cf4681-c7c6-4d52-aa93-8bc77dd447b4",
+          "required": false,
+          "dataType": "@diseases",
+          "name": "diseases",
+          "value": "$diseases",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Stay away from an infected person.Measles can be prevented with MMR vaccine. The vaccine protects against three diseases:measles, mumps, and rubella.Do you need my help with something else?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

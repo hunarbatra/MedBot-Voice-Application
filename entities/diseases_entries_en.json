@@ -1,0 +1,255 @@
+[
+  {
+    "value": "Aids",
+    "synonyms": [
+      "AIDS",
+      "Aids"
+    ]
+  },
+  {
+    "value": "Anaemia",
+    "synonyms": [
+      "Anaemia"
+    ]
+  },
+  {
+    "value": "Asthma",
+    "synonyms": [
+      "Asthama",
+      "Asthma"
+    ]
+  },
+  {
+    "value": "BMI",
+    "synonyms": [
+      "BMI",
+      "body mass index"
+    ]
+  },
+  {
+    "value": "Bee sting",
+    "synonyms": [
+      "Bee bite",
+      "Bee sting"
+    ]
+  },
+  {
+    "value": "Burns",
+    "synonyms": [
+      "Burns",
+      "minor burns"
+    ]
+  },
+  {
+    "value": "Chickenpox",
+    "synonyms": [
+      "Chickenpox"
+    ]
+  },
+  {
+    "value": "Cholera",
+    "synonyms": [
+      "Cholera"
+    ]
+  },
+  {
+    "value": "Cold and Cough",
+    "synonyms": [
+      "Influenza",
+      "cold",
+      "cold \u0026 cough",
+      "cold and cough",
+      "cough",
+      "cough and cold",
+      "flu",
+      "influenza"
+    ]
+  },
+  {
+    "value": "Conjunctivitis",
+    "synonyms": [
+      "Conjuctivitis",
+      "Conjunctivitis",
+      "Eye inflammation",
+      "Eye swelling",
+      "Pink eye"
+    ]
+  },
+  {
+    "value": "Constipation",
+    "synonyms": [
+      "Constipation"
+    ]
+  },
+  {
+    "value": "Dandruff",
+    "synonyms": [
+      "Dandruff"
+    ]
+  },
+  {
+    "value": "Dengue",
+    "synonyms": [
+      "Dengue",
+      "dengue",
+      "dengue fever"
+    ]
+  },
+  {
+    "value": "Diabetes",
+    "synonyms": [
+      "Diabetes",
+      "Diabetes Mellitus",
+      "sugar"
+    ]
+  },
+  {
+    "value": "Diarrhoea",
+    "synonyms": [
+      "Diarrhoea"
+    ]
+  },
+  {
+    "value": "Dog bite",
+    "synonyms": [
+      "Dog bite",
+      "Doggie bite"
+    ]
+  },
+  {
+    "value": "Fever",
+    "synonyms": [
+      "Fever",
+      "common fever"
+    ]
+  },
+  {
+    "value": "Headache",
+    "synonyms": [
+      "Headache"
+    ]
+  },
+  {
+    "value": "Heartburn",
+    "synonyms": [
+      "Heartburn"
+    ]
+  },
+  {
+    "value": "Hepatitis",
+    "synonyms": [
+      "hepatitis"
+    ]
+  },
+  {
+    "value": "Kala azar",
+    "synonyms": [
+      "Kaala  azar",
+      "Kala azaar",
+      "Kala azar",
+      "Kala azhar"
+    ]
+  },
+  {
+    "value": "Leprosy",
+    "synonyms": [
+      "Leprosy"
+    ]
+  },
+  {
+    "value": "Malaria",
+    "synonyms": [
+      "Malaria"
+    ]
+  },
+  {
+    "value": "Measles",
+    "synonyms": [
+      "Measles"
+    ]
+  },
+  {
+    "value": "Menstrual Cramps",
+    "synonyms": [
+      "Menstrual Cramps"
+    ]
+  },
+  {
+    "value": "Muscular pain",
+    "synonyms": [
+      "Joint pain",
+      "Muscle pain",
+      "Muscular pain"
+    ]
+  },
+  {
+    "value": "Nose bleed",
+    "synonyms": [
+      "nose bleed",
+      "nose bleeding"
+    ]
+  },
+  {
+    "value": "Pneumonia",
+    "synonyms": [
+      "Pneumonia"
+    ]
+  },
+  {
+    "value": "Polio",
+    "synonyms": [
+      "Polio"
+    ]
+  },
+  {
+    "value": "Snake bite",
+    "synonyms": [
+      "Snake bite",
+      "snake"
+    ]
+  },
+  {
+    "value": "Stomachache",
+    "synonyms": [
+      "Stomachache",
+      "stomach ache"
+    ]
+  },
+  {
+    "value": "Tetanus",
+    "synonyms": [
+      "Tetanus"
+    ]
+  },
+  {
+    "value": "Toothache",
+    "synonyms": [
+      "Toothache",
+      "tooth ache"
+    ]
+  },
+  {
+    "value": "Tuberculosis",
+    "synonyms": [
+      "TB",
+      "Tuberculosis",
+      "tb",
+      "tuberculosis"
+    ]
+  },
+  {
+    "value": "chickungunya",
+    "synonyms": [
+      "Chickungunya",
+      "chickun gunya",
+      "chickunguniya",
+      "chickungunya"
+    ]
+  },
+  {
+    "value": "typhoid",
+    "synonyms": [
+      "typhoid"
+    ]
+  }
+]

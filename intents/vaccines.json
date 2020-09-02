@@ -1,0 +1,38 @@
+{
+  "id": "1b1bcf99-1eac-43a7-8625-ddc05a5e5579",
+  "name": "vaccines",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "awaiting_baby_months",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "vaccines-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "OK!tell me how many months is your baby?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

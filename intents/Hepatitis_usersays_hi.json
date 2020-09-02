@@ -1,0 +1,106 @@
+[
+  {
+    "id": "f40c9c60-7add-4822-8803-d1c4aef5066e",
+    "data": [
+      {
+        "text": "मैं हेपेटाइटिस के लक्षणों के बारे में जानना चाहता हूं",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "31899808-f04d-4ad5-8b57-4cad291d1318",
+    "data": [
+      {
+        "text": "हेपेटाइटिस ",
+        "userDefined": false
+      },
+      {
+        "text": "बी",
+        "alias": "unit-information-name",
+        "meta": "@sys.unit-information-name",
+        "userDefined": false
+      },
+      {
+        "text": " क्या है?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a4eed0a6-fe52-432c-9195-5620a53d88b3",
+    "data": [
+      {
+        "text": "हेपेटाइटिस क्या है",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a4956607-3ae6-4434-afa5-2da7c5111e5f",
+    "data": [
+      {
+        "text": "हेपेटाइटिस ",
+        "userDefined": false
+      },
+      {
+        "text": "बी",
+        "alias": "unit-information-name",
+        "meta": "@sys.unit-information-name",
+        "userDefined": false
+      },
+      {
+        "text": " के बारे में जानकारी",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "18065922-5b50-462c-90db-274c6160c6db",
+    "data": [
+      {
+        "text": "हेपेटाइटिस ए के बारे में जानकारी",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2723d2eb-b3c2-4cb7-bf19-db0fece46e24",
+    "data": [
+      {
+        "text": "हेपेटाइटिस",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "d4b864da-03eb-43a4-8f33-8490d8dc8fac",
+    "data": [
+      {
+        "text": "हेपेटाइटिस के बारे में मुझे जानकारी दें",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

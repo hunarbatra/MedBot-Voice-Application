@@ -1,0 +1,43 @@
+{
+  "id": "658423bc-6f62-4257-9129-47d0e85b763c",
+  "parentId": "db4cd723-8108-43ad-8c0f-e118f88a5566",
+  "rootParentId": "db4cd723-8108-43ad-8c0f-e118f88a5566",
+  "name": "Conjunctivitis - no",
+  "auto": true,
+  "contexts": [
+    "Conjunctivitis-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Conjunctivitis.Conjunctivitis-no",
+      "affectedContexts": [
+        {
+          "name": "user-wants-more-help",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "awaiting_no",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Okay,do you want my help with something else?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

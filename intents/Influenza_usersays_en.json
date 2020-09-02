@@ -1,0 +1,394 @@
+[
+  {
+    "id": "84eca496-f6b1-4948-af13-1e5c7fff9bab",
+    "data": [
+      {
+        "text": "give me some information about ",
+        "userDefined": false
+      },
+      {
+        "text": "cold and cough",
+        "alias": "diseases",
+        "meta": "@diseases",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6b4dde00-8745-437f-8130-7ccf2d1da1c5",
+    "data": [
+      {
+        "text": "tell me about ",
+        "userDefined": false
+      },
+      {
+        "text": "flu",
+        "alias": "diseases",
+        "meta": "@diseases",
+        "userDefined": false
+      },
+      {
+        "text": " symptoms",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cf8c4669-cc29-4d41-9317-8c55baee65f5",
+    "data": [
+      {
+        "text": "what are symptoms of ",
+        "userDefined": false
+      },
+      {
+        "text": "cough",
+        "alias": "diseases",
+        "meta": "@diseases",
+        "userDefined": false
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "cold?",
+        "alias": "diseases",
+        "meta": "@diseases",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "431bfef7-1173-46ac-bb3e-37e7b0c121cb",
+    "data": [
+      {
+        "text": "what is common ",
+        "userDefined": false
+      },
+      {
+        "text": "cold",
+        "alias": "diseases",
+        "meta": "@diseases",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1681e849-cc39-4d3b-bec3-27f8ec86c38c",
+    "data": [
+      {
+        "text": "please tell me about common ",
+        "userDefined": false
+      },
+      {
+        "text": "cold",
+        "alias": "diseases",
+        "meta": "@diseases",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f92e56eb-0d42-4628-affb-6d545d7dacbc",
+    "data": [
+      {
+        "text": "cough",
+        "alias": "diseases",
+        "meta": "@diseases",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "48c72461-6652-4980-98b7-4f1e769f72bb",
+    "data": [
+      {
+        "text": "cold",
+        "alias": "diseases",
+        "meta": "@diseases",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "294a2cb7-b6f9-4b6e-bf9a-0e39f64cab08",
+    "data": [
+      {
+        "text": "cough",
+        "alias": "diseases",
+        "meta": "@diseases",
+        "userDefined": false
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "cold",
+        "alias": "diseases",
+        "meta": "@diseases",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "25097fb8-c162-4899-b66c-47b3fd88c9ad",
+    "data": [
+      {
+        "text": "flu",
+        "alias": "diseases",
+        "meta": "@diseases",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5178962e-0144-41a1-89bc-5da8c37c9222",
+    "data": [
+      {
+        "text": "how do i know i have ",
+        "userDefined": false
+      },
+      {
+        "text": "flu",
+        "alias": "diseases",
+        "meta": "@diseases",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1643d229-2db6-4bcf-a8b5-70be5bbfcf5e",
+    "data": [
+      {
+        "text": "symptoms of ",
+        "userDefined": false
+      },
+      {
+        "text": "cough",
+        "alias": "diseases",
+        "meta": "@diseases",
+        "userDefined": false
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "cold",
+        "alias": "diseases",
+        "meta": "@diseases",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "27d6dc79-18fe-4083-9ee9-7da3df622440",
+    "data": [
+      {
+        "text": "what are the symptoms of ",
+        "userDefined": false
+      },
+      {
+        "text": "flu",
+        "alias": "diseases",
+        "meta": "@diseases",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1fbe78f3-44e4-40e3-97af-cfd6065f3d7e",
+    "data": [
+      {
+        "text": "tell me about ",
+        "userDefined": false
+      },
+      {
+        "text": "cough",
+        "alias": "diseases",
+        "meta": "@diseases",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f6c4a04b-c0d0-4300-a232-28b70ac7a424",
+    "data": [
+      {
+        "text": "i want to know about ",
+        "userDefined": false
+      },
+      {
+        "text": "cough",
+        "alias": "diseases",
+        "meta": "@diseases",
+        "userDefined": false
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "cold",
+        "alias": "diseases",
+        "meta": "@diseases",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "55266079-a4fe-478e-b55d-15af2317f72b",
+    "data": [
+      {
+        "text": "Tell me about ",
+        "userDefined": false
+      },
+      {
+        "text": "influenza",
+        "alias": "diseases",
+        "meta": "@diseases",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7972f96d-23b3-48f3-b3c1-a521d34b1444",
+    "data": [
+      {
+        "text": "Influenza",
+        "alias": "diseases",
+        "meta": "@diseases",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8ecf9e32-a820-4375-bdaa-a73b63b3144a",
+    "data": [
+      {
+        "text": "may I know about seasonal ",
+        "userDefined": false
+      },
+      {
+        "text": "flu?",
+        "alias": "diseases",
+        "meta": "@diseases",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e3b23f90-ec25-415d-907d-f578eb2feea6",
+    "data": [
+      {
+        "text": "can you tell me about ",
+        "userDefined": false
+      },
+      {
+        "text": "influenza?",
+        "alias": "diseases",
+        "meta": "@diseases",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2b2800db-50ba-418e-9d20-e641f1365c3e",
+    "data": [
+      {
+        "text": "what is ",
+        "userDefined": false
+      },
+      {
+        "text": "flu",
+        "alias": "diseases",
+        "meta": "@diseases",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b36d671b-7e63-4e1c-9855-b63d386a4056",
+    "data": [
+      {
+        "text": "what is ",
+        "userDefined": false
+      },
+      {
+        "text": "influenza",
+        "alias": "diseases",
+        "meta": "@diseases",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

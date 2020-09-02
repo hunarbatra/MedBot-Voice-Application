@@ -1,0 +1,46 @@
+{
+  "id": "95a8abf2-7c62-4d40-b483-47cc77315546",
+  "name": "Hygiene and Healthcare Tips",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Stress less. All our hormones are controlled by pituitary and other glands. Because of stress, these work in an overdrive and cause imbalance in our bodies. To be healthier, you must learn to relax more often.",
+            "Drink at least eight glasses of water. This will keep the UTIs and other\nrenal problems at bay.",
+            "Maintain basic genital hygiene. Wash genital areas with a pH-balanced\nshower gel or soap. This will help prevent any fungal infections.",
+            "If you are a women, make sure your vaginal area is well aerated. Wear cotton underwear and avoid synthetic fabrics. Do not wear any underwear when you are sleeping.",
+            "Most restaurant foods are rich in saturated fats. You must reduce the fat\nand oil content in food. It can be poisonous for your health. Eat at home as\noften as you can",
+            "Go for a 40-minute walk five times a week and do three days of resistance\nworkout. To reduce insulin resistance, you must do some resistance exercise\nlike stretching and weights. Walking is an exercise where oxygen is used and\nthat helps in building your stamina.",
+            "One should get at least six hours of sleep. If you don\u0027t get adequate sleep,\nyour whole system will be disturbed and that has a great impact on your\nhormones.",
+            "If you are happy, everything falls in place, including your general physical,\nmental and emotional wellbeing. Build a vibrant social life, spend time with\nfamily and friends, and aim for happiness.",
+            "Go for annual health check-ups .It is especially critical if you are\nover 40.",
+            "If you are generally healthy, eat well and exercise. Have no major\naddictions and you will then be on the road to having a healthy heart.",
+            "Stop eating anything white. No white sugar, white flour, and white\npolished rice. Try jowar, ragi, bajra and oats instead.",
+            "Eat a fresh fruit in the morning. Do not reach out for your customary tea\nor coffee.",
+            "Stay away from your gadgets ,cellphones, laptops, and computers \nfor at least one hour before you go to bed.",
+            "Stop smoking.  Passive smokers also suffer, so do try and spare your\nfamily and friends an early death. Similarly try to avoid alcohol.",
+            "Get interested in something creative. Choose a hobby. It is\nimperative for us to do things we enjoy.",
+            "Save some time for yourself. Life will go on even if you are not\navailable. So, spend some time with yourself.",
+            "Laugh more.Find humour in everything. Spread positivity and less\nnegativity. One way of doing this is by expressing gratitude for the smallest\nthings in life.",
+            "Smoking : No matter how you smoke it, tobacco is dangerous to your health. There\nare no safe substances in any tobacco products, from acetone and tar to nicotine and carbon monoxide. The substances you inhale don’t just affect your lungs. They can affect your entire body. Smoking can lead to a variety of ongoing complications in the body, as well as long-term effects on your body systems."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

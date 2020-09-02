@@ -1,0 +1,56 @@
+{
+  "id": "3c821cb8-807a-4d5f-b5f6-aed2fea21991",
+  "parentId": "60daad10-5a5a-4c4c-a414-0480cb5e9e1a",
+  "rootParentId": "60daad10-5a5a-4c4c-a414-0480cb5e9e1a",
+  "name": "Diarrhoea - yes",
+  "auto": true,
+  "contexts": [
+    "Diarrhoea-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Diarrhoea.Diarrhoea-yes",
+      "affectedContexts": [
+        {
+          "name": "awaiting_no",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "user-wants-more-help",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "1114b934-2d06-4cc5-a92c-e0a4dc481291",
+          "required": false,
+          "dataType": "@diseases",
+          "name": "diseases",
+          "value": "$diseases",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Sure! Wash hands thoroughly before eating or preparing food and after going to the toilet.\nGet toilets cleaned, including the handle and the seat, with disinfectant after each bout of diarrhoea.\n Low fibre food such as bananas, rice (white), toast, starchy food, pomegranate,\ncarrot, bottle guard juice can be taken to firm up the stool. Do you want my help with something else?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

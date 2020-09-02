@@ -1,0 +1,51 @@
+{
+  "id": "d3ceb407-f5bc-4f86-844b-7c68d56e7477",
+  "name": "Bee sting",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "Beesting-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "5609982d-c328-47b3-8035-c1a25f2117b3",
+          "required": false,
+          "dataType": "@diseases",
+          "name": "diseases",
+          "value": "$diseases",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "hi",
+          "speech": "मधुमक्खी का डंक मुख्य रूप से स्टिंग साइट पर दर्द और सूजन या खुजली का कारण बनता है। दुर्लभ मामलों में, एक  घातक एलर्जी प्रतिक्रिया से सांस लेने में कठिनाई, जीभ की सूजन, मतली और बेहोशी हो सकती है। क्या आप मधुमक्खी के डंक का इलाज जानना चाहते हैं?"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Bee stings mainly cause  pain and swelling or itching at the sting site.In rare cases, a life-threatening allergic reaction can cause difficulty breathing, tongue swelling, nausea and unconsciousness. Do you want to know the treatment of bee sting?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,122 @@
+[
+  {
+    "id": "bc7b80d9-d46f-44b7-88a6-f63a211384fd",
+    "data": [
+      {
+        "text": "yes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "ce9cec39-6f40-4d4c-8848-06b7fc53c313",
+    "data": [
+      {
+        "text": "Ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "06941454-48a7-4524-938e-848cf5c24b72",
+    "data": [
+      {
+        "text": "Tell me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "56c9de06-0c3e-4377-9295-be6ae0ca4529",
+    "data": [
+      {
+        "text": "Sure why not",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3a265182-3f11-42f0-bdc0-ae470d02a29f",
+    "data": [
+      {
+        "text": "Yes please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b5a8cd9e-3f2c-438a-82bb-1a1bcf3360e4",
+    "data": [
+      {
+        "text": "Ok",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "26b7fbeb-f5ba-48dc-b2b2-fbfed7e0ef46",
+    "data": [
+      {
+        "text": "yeah",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c6602279-2466-47d1-8835-a9693d775c19",
+    "data": [
+      {
+        "text": "Yes okay",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0d647583-aa5b-4d99-8d73-424425ff23f6",
+    "data": [
+      {
+        "text": "Sure",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1faf1996-da69-4a98-9d8a-7a5903fd459c",
+    "data": [
+      {
+        "text": "Okay",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

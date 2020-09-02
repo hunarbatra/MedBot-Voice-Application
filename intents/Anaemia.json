@@ -1,0 +1,51 @@
+{
+  "id": "40ed42b8-d145-40a3-82ed-fc9eb7530550",
+  "name": "Anaemia",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "Anaemia-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "f08fa6fa-b22d-4c4e-b7f9-14497439c2a6",
+          "required": false,
+          "dataType": "@diseases",
+          "name": "diseases",
+          "value": "$diseases",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "hi",
+          "speech": "एनीमिया के परिणामस्वरूप शरीर में लाल रक्त कोशिकाओं या शिथिल लाल रक्त कोशिकाओं की कमी होती है। इससे शरीर के अंगों में ऑक्सीजन का प्रवाह कम हो जाता है। पर्याप्त लोहे के बिना, लाल रक्त कोशिकाएं शरीर के ऊतकों को पर्याप्त ऑक्सीजन नहीं दे सकती हैं। क्या आप सावधानियों के बारे में जानना चाहेंगे?"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Anaemia results from a lack of red blood cells or dysfunctional red blood cells in the body.This leads to reduced oxygen flow to the body\u0027s organs. Without enough iron, red blood cells can\u0027t carry enough oxygen to body tissues. Would you like to know about precautions?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

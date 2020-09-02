@@ -1,0 +1,81 @@
+{
+  "id": "19cba3ed-0eaf-419b-ba95-e105fe257a0f",
+  "name": "Aids",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "Aids-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "12aab81c-dcca-4bc6-9711-c670f80c3bcb",
+          "required": false,
+          "dataType": "@diseases",
+          "name": "diseases",
+          "value": "$diseases",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "lang": "en",
+          "suggestions": [
+            {
+              "title": "Typhoid"
+            },
+            {
+              "title": "Dengue"
+            },
+            {
+              "title": "Pregnancy"
+            },
+            {
+              "title": "Leprosy"
+            },
+            {
+              "title": "Malaria"
+            },
+            {
+              "title": "Home Remedies"
+            },
+            {
+              "title": "Hygiene and Healthcare"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "HIV causes AIDS which interferes with the body\u0027s ability to fight infections.It can spread through use of unclean needles, mother to baby by pregnancy, labor or nursing or having unprotected vaginal, anal or oral sex.Symptoms include weight loss, fever or night sweats, fatigue and recurrent infections.Do you want to know about its prevention?"
+        },
+        {
+          "type": 0,
+          "lang": "hi",
+          "speech": "एचआईवी एड्स का कारण बनता है जो संक्रमण से लड़ने की शरीर की क्षमता में हस्तक्षेप करता है, यह अशुद्ध सुइयों के उपयोग से फैल सकता है, गर्भावस्था, श्रम या नर्सिंग द्वारा बच्चे को मां या असुरक्षित योनि, गुदा या मौखिक सेक्स करने से हो सकता है। लक्षण वजन घटाने में शामिल हैं, बुखार या रात को पसीना, थकान और बार-बार संक्रमण। क्या आप इसकी रोकथाम के बारे में जानना चाहते हैं?"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

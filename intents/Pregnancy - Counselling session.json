@@ -1,0 +1,41 @@
+{
+  "id": "699cfabb-d731-48bf-bda7-e0f2d1a3a7a2",
+  "name": "Pregnancy - Counselling session",
+  "auto": true,
+  "contexts": [
+    "Pregnancy-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Pregnancy.Pregnancy-yes",
+      "affectedContexts": [
+        {
+          "name": "Counsellingsession-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "hi",
+          "speech": "ठीक! काउंसलिंग शुरू करते हैं। क्या आपने डिलीवरी का स्थान तय किया है?"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Ok! starting counselling session for you. Have you decided the place of delivery?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

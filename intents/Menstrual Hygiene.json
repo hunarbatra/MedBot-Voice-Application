@@ -1,0 +1,72 @@
+{
+  "id": "f552e31e-a166-45ca-8336-76d5411639d0",
+  "name": "Menstrual Hygiene",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "user-wants-more-help",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "awaiting_no",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "b896968b-08f1-4303-8540-58a17b08ef82",
+          "required": false,
+          "dataType": "@menstrualhygiene",
+          "name": "menstrualhygiene",
+          "value": "$menstrualhygiene",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "lang": "en",
+          "suggestions": [
+            {
+              "title": "Pregnancy"
+            },
+            {
+              "title": "Muscular pain"
+            },
+            {
+              "title": "Home remedies"
+            },
+            {
+              "title": "Health and Hygiene tips"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Yes, sure! Change pads or tampons regularly to prevent infections - it is advisable to change a sanitary pad once every six hours, for a tampon, it is every two hours. Do not use soaps or vaginal hygiene products to wash the genital area. Instead, clean the vaginal area using warm water regularly. Always pat the vaginal area dry after every wash, else it might cause irritation.Never flush used sanitary pad and tampons down the toilet. Discard them properly and throw them in the dustbin to prevent the spread of infections. Would you like my help with anything else?"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

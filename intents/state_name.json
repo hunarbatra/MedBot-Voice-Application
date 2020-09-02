@@ -1,0 +1,56 @@
+{
+  "id": "d88859e4-ca1c-454b-adbd-a41400675068",
+  "parentId": "2d73d340-037b-4f7f-a159-99f586b18325",
+  "rootParentId": "2d73d340-037b-4f7f-a159-99f586b18325",
+  "name": "state_name",
+  "auto": true,
+  "contexts": [
+    "awaiting_state_name",
+    "localfoodrecommendations-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "localfoodrecommendations.localfoodrecommendations-custom",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "e03eda46-7b8b-43ee-bd84-13478e573bdf",
+          "required": true,
+          "dataType": "@states",
+          "name": "states",
+          "value": "$states",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Can you please tell me with full name of the state you live in?"
+            },
+            {
+              "lang": "en",
+              "value": "Please Tell me the State that you live in so that I can provide you with some great Local Food Recommendations!"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Webhook Call Failed"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

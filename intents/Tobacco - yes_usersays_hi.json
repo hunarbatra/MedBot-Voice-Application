@@ -1,0 +1,122 @@
+[
+  {
+    "id": "9f21e0cf-5c5e-4e96-a71d-b1efe4e98f25",
+    "data": [
+      {
+        "text": "बिलकुल",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c8105a78-e4ce-462d-847b-4309d6cb1cff",
+    "data": [
+      {
+        "text": "यह सही है!",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "63f9597e-b852-4548-a52c-8da0f0e2402a",
+    "data": [
+      {
+        "text": "अच्छा लग रहा है",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7a3f7018-1ef5-424a-afb1-c2f83d8046c3",
+    "data": [
+      {
+        "text": "अभी करो",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c0fc72ca-2f47-4d2e-ac34-f08ec94709c9",
+    "data": [
+      {
+        "text": "ज़रूर",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "aaa882fd-86ef-4788-98c9-52c575aee936",
+    "data": [
+      {
+        "text": "मैं सहमत हूँ",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "84cca5fa-978e-444f-8de4-bf358f1f08bb",
+    "data": [
+      {
+        "text": "मुझे फ़र्क नहीं पड़ता",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "caea218b-5b27-461f-ba17-bb34306e08c3",
+    "data": [
+      {
+        "text": "बेशक",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "59987b3d-ddf9-42b1-98c7-ef2b4a1834cf",
+    "data": [
+      {
+        "text": "पक्का ना",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "764fcf13-a4cd-455c-a3dc-3189fca74263",
+    "data": [
+      {
+        "text": "हाँ",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

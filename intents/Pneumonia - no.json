@@ -1,0 +1,43 @@
+{
+  "id": "0d71c858-b09f-43fe-a6c0-ad21918e8c4f",
+  "parentId": "6c0acc11-19b2-4fa1-97c1-82511f3fde36",
+  "rootParentId": "6c0acc11-19b2-4fa1-97c1-82511f3fde36",
+  "name": "Pneumonia - no",
+  "auto": true,
+  "contexts": [
+    "Pneumonia-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Pneumonia.Pneumonia-no",
+      "affectedContexts": [
+        {
+          "name": "awaiting_no",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "user-wants-more-help",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Do you need my help with something else?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

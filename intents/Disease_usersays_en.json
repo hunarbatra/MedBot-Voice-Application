@@ -1,0 +1,38 @@
+[
+  {
+    "id": "a120b4fc-d300-4c96-afbc-bb2b6b44a5e7",
+    "data": [
+      {
+        "text": "tell me about diseases?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bfe876ee-f74c-422d-9fb9-0e39aad9b4ce",
+    "data": [
+      {
+        "text": "tell me about disease?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e3a8db73-60e3-43ee-8571-8fb9d76f88d0",
+    "data": [
+      {
+        "text": "diseases",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

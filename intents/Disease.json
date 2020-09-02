@@ -1,0 +1,38 @@
+{
+  "id": "34cb29d8-f3a0-4c27-90ba-f45c4b08ed98",
+  "name": "Disease",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "basic_card",
+          "platform": "google",
+          "lang": "en",
+          "image": {
+            "url": "https://naturalallergytreatment.com.au/wp-content/uploads/2018/02/autoimmune.jpg",
+            "accessibilityText": "disease"
+          }
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Ok! tell me which disease you want to know about?"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

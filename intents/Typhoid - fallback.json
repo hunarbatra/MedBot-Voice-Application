@@ -1,0 +1,39 @@
+{
+  "id": "eb6d77ab-a396-400e-b658-2f3d8a9c1a8a",
+  "parentId": "5214323e-d240-4c7c-ab15-2c6cd101191e",
+  "rootParentId": "5214323e-d240-4c7c-ab15-2c6cd101191e",
+  "name": "Typhoid - fallback",
+  "auto": false,
+  "contexts": [
+    "Typhoid-followup",
+    "awaiting_no",
+    "user-wants-more-help"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Typhoid.Typhoid-fallback",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "hi",
+          "speech": []
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": true,
+  "events": []
+}

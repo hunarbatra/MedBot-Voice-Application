@@ -1,0 +1,56 @@
+{
+  "id": "421b5f21-7fd1-47ba-9616-4d2a43dfb861",
+  "parentId": "097e9076-a35f-4c71-bd71-f0db2750327e",
+  "rootParentId": "097e9076-a35f-4c71-bd71-f0db2750327e",
+  "name": "Muscular pain - yes",
+  "auto": true,
+  "contexts": [
+    "Muscularpain-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Muscularpain.Muscularpain-yes",
+      "affectedContexts": [
+        {
+          "name": "user-wants-more-help",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "awaiting_no",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "4a405633-c6ad-4b90-b4cd-52e30c73040d",
+          "required": false,
+          "dataType": "@diseases",
+          "name": "diseases",
+          "value": "$diseases",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Rest the area of the body where you are experiencing aches and pains,\ntake over-the-counter pain reliever, such as ibuprofen .You can also\napply ice to the affected area to help relieve pain and reduce inflammation.Would you like to know something else?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

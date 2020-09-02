@@ -1,0 +1,218 @@
+[
+  {
+    "id": "67ac2110-4f6b-4667-9758-e0af41d45c68",
+    "data": [
+      {
+        "text": "health remedy for toothache",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "079bd42b-c6a2-4196-a33d-b427e7119a43",
+    "data": [
+      {
+        "text": "What are the home remedies of ",
+        "userDefined": false
+      },
+      {
+        "text": "menstrual cramps",
+        "alias": "diseases",
+        "meta": "@diseases",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "74274a65-9239-4e84-bdfe-19b7673cf8ea",
+    "data": [
+      {
+        "text": "Give me home remedies of ",
+        "userDefined": false
+      },
+      {
+        "text": "toothache",
+        "alias": "diseases",
+        "meta": "@diseases",
+        "userDefined": false
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ca7cdd44-b197-4aef-919a-3314e31bfdf2",
+    "data": [
+      {
+        "text": "Home remedies of ",
+        "userDefined": false
+      },
+      {
+        "text": "nose bleed",
+        "alias": "diseases",
+        "meta": "@diseases",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "07249657-ae25-428c-bbff-afe19fdf1b6a",
+    "data": [
+      {
+        "text": "What are the home remedies of ",
+        "userDefined": false
+      },
+      {
+        "text": "stomach ache",
+        "alias": "diseases",
+        "meta": "@diseases",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3f789e4b-129b-47b6-b52b-1292c06a5621",
+    "data": [
+      {
+        "text": "Tell me home remedies of ",
+        "userDefined": false
+      },
+      {
+        "text": "common fever",
+        "alias": "diseases",
+        "meta": "@diseases",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ce755d32-b309-4365-8172-07abac9d185d",
+    "data": [
+      {
+        "text": "Can you tell me about about ",
+        "userDefined": false
+      },
+      {
+        "text": "constipation",
+        "alias": "diseases",
+        "meta": "@diseases",
+        "userDefined": false
+      },
+      {
+        "text": " home remedies",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "563cb046-d95c-4100-b3ea-3db96264ec45",
+    "data": [
+      {
+        "text": "Home remedies of ",
+        "userDefined": false
+      },
+      {
+        "text": "heartburn",
+        "alias": "diseases",
+        "meta": "@diseases",
+        "userDefined": false
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1cc4d065-0dec-482e-aff5-b2b0769bdb70",
+    "data": [
+      {
+        "text": "Home remedies of ",
+        "userDefined": false
+      },
+      {
+        "text": "dandruff",
+        "alias": "diseases",
+        "meta": "@diseases",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4173b4b8-1cfd-4a83-bf84-0898b718bbb6",
+    "data": [
+      {
+        "text": "Can you tell me home remedies of ",
+        "userDefined": false
+      },
+      {
+        "text": "burns",
+        "alias": "diseases",
+        "meta": "@diseases",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f19d4f1d-353f-41c7-816e-52a3e3fbd4de",
+    "data": [
+      {
+        "text": "Tell me the home remedies of ",
+        "userDefined": false
+      },
+      {
+        "text": "cough and cold",
+        "alias": "diseases",
+        "meta": "@diseases",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

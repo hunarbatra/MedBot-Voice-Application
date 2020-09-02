@@ -1,0 +1,98 @@
+[
+  {
+    "id": "d2e634fd-6867-4a91-84bc-f3f8c93b914a",
+    "data": [
+      {
+        "text": "मधुमेह",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8a12f53d-133d-41ac-988a-7c0d03466712",
+    "data": [
+      {
+        "text": "मधुमेह क्या है",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1457f739-160e-47e0-a8f5-aa4b946ce931",
+    "data": [
+      {
+        "text": "मधुमेह के बारे में जानकारी",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "514527dc-e072-4b5e-be9f-50a42cad685e",
+    "data": [
+      {
+        "text": "मधुमेह के लक्षण",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dc84c1f7-d8b2-43f6-9b7f-382c063c5d90",
+    "data": [
+      {
+        "text": "मुझे मधुमेह के लक्षणों के बारे में बताएं",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8b2efc37-f888-42fa-86ed-6a5c9ed8a9e5",
+    "data": [
+      {
+        "text": "मैं मधुमेह के लक्षणों के बारे में जानना चाहता हूं",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "871f7bfb-a3f1-493c-9720-0991f3ad433b",
+    "data": [
+      {
+        "text": "मधुमेह के क्या लक्षण हैं?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7347bb53-07db-477d-b5f5-2a67573dc237",
+    "data": [
+      {
+        "text": "मुझे कैसे पता चलेगा कि मुझे मधुमेह है?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

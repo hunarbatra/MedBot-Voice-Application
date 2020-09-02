@@ -1,0 +1,284 @@
+[
+  {
+    "id": "c02c477b-da84-4e91-ba36-ebbbd888bbbe",
+    "data": [
+      {
+        "text": "can you tell me about ",
+        "userDefined": false
+      },
+      {
+        "text": "Chikungunya",
+        "alias": "diseases",
+        "meta": "@diseases",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "d5225d10-1f4f-4f4b-b79b-36f55be3042c",
+    "data": [
+      {
+        "text": "Chikungunya",
+        "alias": "diseases",
+        "meta": "@diseases",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b9ee5a25-b2c5-4acb-a879-bf0a353bd95d",
+    "data": [
+      {
+        "text": "about ",
+        "userDefined": false
+      },
+      {
+        "text": "Chikungunya",
+        "alias": "diseases",
+        "meta": "@diseases",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b8764054-c9f6-4517-a5cf-20409a78dbca",
+    "data": [
+      {
+        "text": "Can you please tell me about ",
+        "userDefined": false
+      },
+      {
+        "text": "chikungunya",
+        "alias": "diseases",
+        "meta": "@diseases",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "updated": 0
+  },
+  {
+    "id": "b562a828-c50b-4cf2-91d8-0d85bc704e1c",
+    "data": [
+      {
+        "text": "What is ",
+        "userDefined": false
+      },
+      {
+        "text": "chikungunya",
+        "alias": "diseases",
+        "meta": "@diseases",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 0
+  },
+  {
+    "id": "5f0fd054-016c-4cab-99d8-11dfa7530750",
+    "data": [
+      {
+        "text": "चिकनगुनिया क्या है",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "00d0b62a-a8e2-4e81-be8c-7ab44c75b28e",
+    "data": [
+      {
+        "text": "I ask for ",
+        "userDefined": false
+      },
+      {
+        "text": "Chikungunya",
+        "alias": "diseases",
+        "meta": "@diseases",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dbd40ffa-9f41-4b02-9de4-012f11832cc4",
+    "data": [
+      {
+        "text": "What is ",
+        "userDefined": false
+      },
+      {
+        "text": "Chikungunya?",
+        "alias": "diseases",
+        "meta": "@diseases",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "42b670b3-48e5-4859-a738-4990055bc9d8",
+    "data": [
+      {
+        "text": "Can you please tell me about ",
+        "userDefined": false
+      },
+      {
+        "text": "Chikungunya",
+        "alias": "diseases",
+        "meta": "@diseases",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "56680f04-b1d9-46a1-8855-2f85bc94824c",
+    "data": [
+      {
+        "text": "Tell me about ",
+        "userDefined": false
+      },
+      {
+        "text": "Chikungunya",
+        "alias": "diseases",
+        "meta": "@diseases",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1fc6590a-1612-4fc5-82b4-8fe8c8717160",
+    "data": [
+      {
+        "text": "Give me info about ",
+        "userDefined": false
+      },
+      {
+        "text": "chickungunya",
+        "alias": "diseases",
+        "meta": "@diseases",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c36d885e-ab49-49ca-8ef7-19fc14ed16ad",
+    "data": [
+      {
+        "text": "What is ",
+        "userDefined": false
+      },
+      {
+        "text": "chickungunya",
+        "alias": "diseases",
+        "meta": "@diseases",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b65c2d29-6507-41df-b663-cc2fa4d7890a",
+    "data": [
+      {
+        "text": "Please tell me something about ",
+        "userDefined": false
+      },
+      {
+        "text": "chickungunya",
+        "alias": "diseases",
+        "meta": "@diseases",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "62e936ee-f4a5-4ef8-aa11-a2fa7f97caaf",
+    "data": [
+      {
+        "text": "I want to know about ",
+        "userDefined": false
+      },
+      {
+        "text": "chickungunya",
+        "alias": "diseases",
+        "meta": "@diseases",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "be7cbf35-8caa-4646-9306-fcc5242a7d18",
+    "data": [
+      {
+        "text": "info about ",
+        "userDefined": false
+      },
+      {
+        "text": "chickungunya",
+        "alias": "diseases",
+        "meta": "@diseases",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7122b056-4018-4256-b630-0126e58c4143",
+    "data": [
+      {
+        "text": "can you tell me about ",
+        "userDefined": false
+      },
+      {
+        "text": "chickungunya",
+        "alias": "diseases",
+        "meta": "@diseases",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

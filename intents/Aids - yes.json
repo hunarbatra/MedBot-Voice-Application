@@ -1,0 +1,61 @@
+{
+  "id": "1edc3fdd-c4d4-4ed2-9a4a-e0e1f35ee682",
+  "parentId": "19cba3ed-0eaf-419b-ba95-e105fe257a0f",
+  "rootParentId": "19cba3ed-0eaf-419b-ba95-e105fe257a0f",
+  "name": "Aids - yes",
+  "auto": true,
+  "contexts": [
+    "Aids-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Aids.Aids-yes",
+      "affectedContexts": [
+        {
+          "name": "user-wants-more-help",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "awaiting_no",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "1769128b-3585-48dc-9a09-c032ac5ffc65",
+          "required": false,
+          "dataType": "@diseases",
+          "name": "diseases",
+          "value": "$diseases",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "There\u0027s no vaccine to prevent HIV infection and no cure for AIDS. But you can protect yourself and others from infection. Use a new condom every time you have sex. If you use a needle to inject drugs, make sure it\u0027s sterile and don\u0027t share it. Do you want me to tell you something else?"
+        },
+        {
+          "type": 0,
+          "lang": "hi",
+          "speech": "एचआईवी संक्रमण को रोकने के लिए कोई टीका नहीं है और एड्स का कोई इलाज नहीं है। लेकिन आप खुद को और दूसरों को संक्रमण से बचा सकते हैं। हर बार सेक्स करते समय एक नए कंडोम का इस्तेमाल करें। यदि आप दवाओं को इंजेक्ट करने के लिए सुई का उपयोग करते हैं, तो सुनिश्चित करें कि यह बाँझ है और इसे साझा न करें। क्या आप चाहते हैं कि मैं आपको कुछ और बताऊं?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

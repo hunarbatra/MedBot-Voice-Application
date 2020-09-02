@@ -1,0 +1,56 @@
+{
+  "id": "9e1bce2d-7962-4d58-9c30-18341617abb3",
+  "parentId": "6c0acc11-19b2-4fa1-97c1-82511f3fde36",
+  "rootParentId": "6c0acc11-19b2-4fa1-97c1-82511f3fde36",
+  "name": "Pneumonia - yes",
+  "auto": true,
+  "contexts": [
+    "Pneumonia-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Pneumonia.Pneumonia-yes",
+      "affectedContexts": [
+        {
+          "name": "user-wants-more-help",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "awaiting_no",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "6f6e9b7e-9239-4b68-bb0c-26b045235b82",
+          "required": false,
+          "dataType": "@diseases",
+          "name": "diseases",
+          "value": "$diseases",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Get a flu shot every year to prevent seasonal influenza. The flu is a common cause of pneumonia, so preventing the flu is a good way to prevent pneumonia. Besides getting shots, you can lower your risk of getting bacterial pneumonia by doing these things:\nWash your hands regularly, especially after you go to the bathroom and before you eat.\nEat right, with plenty of fruits and vegetables,Exercise,Get enough sleep. Do you want my help with something else?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

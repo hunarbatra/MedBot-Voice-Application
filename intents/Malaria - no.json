@@ -1,0 +1,43 @@
+{
+  "id": "ebb1b9b5-b511-444e-ad2f-bcc82be6276f",
+  "parentId": "10c34b71-326b-4df5-b11d-2a0659985f98",
+  "rootParentId": "10c34b71-326b-4df5-b11d-2a0659985f98",
+  "name": "Malaria - no",
+  "auto": true,
+  "contexts": [
+    "Malaria-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Malaria.Malaria-no",
+      "affectedContexts": [
+        {
+          "name": "user-wants-more-help",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "awaiting_no",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Okay,can I help you with something else?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

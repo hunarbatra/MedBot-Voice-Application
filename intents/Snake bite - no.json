@@ -1,0 +1,43 @@
+{
+  "id": "668f6e07-0813-4eca-891b-b4b3ae015e34",
+  "parentId": "df3c0dee-b2d1-4212-b565-f4fa2c4e2211",
+  "rootParentId": "df3c0dee-b2d1-4212-b565-f4fa2c4e2211",
+  "name": "Snake bite - no",
+  "auto": true,
+  "contexts": [
+    "Snakebite-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Snakebite.Snakebite-no",
+      "affectedContexts": [
+        {
+          "name": "user-wants-more-help",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "awaiting_no",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Do you want my help with something else?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

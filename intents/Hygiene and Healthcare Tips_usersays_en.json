@@ -1,0 +1,98 @@
+[
+  {
+    "id": "a9b0125e-933f-4cd3-a1bd-863d31d792f6",
+    "data": [
+      {
+        "text": "tell me healthcare or a hygiene tip",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b55183d3-817b-448b-b614-b6f5d6952658",
+    "data": [
+      {
+        "text": "tell me a hygiene tip",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1536ed68-f4f9-42f9-8233-cbe9e4660f6f",
+    "data": [
+      {
+        "text": "tell me a healthcare tip",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4ea8885a-bac3-42e5-b3fc-886851fd51a3",
+    "data": [
+      {
+        "text": "can you give me a hygiene tip",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "40380ad6-481d-4aba-9450-e1299e3a64b0",
+    "data": [
+      {
+        "text": "lifestyle tips",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b9e0a821-4a63-4e08-8ccd-14598340d1d3",
+    "data": [
+      {
+        "text": "hygiene tip",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ccb77d87-6087-4636-be31-3b6f6dbd8b2d",
+    "data": [
+      {
+        "text": "can you give me a healthcare tip",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4deef44a-5579-46eb-b573-718844a10d0a",
+    "data": [
+      {
+        "text": "healthcare tip",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,43 @@
+{
+  "id": "1a15daac-fbb8-4d30-9eff-a99b99ab128b",
+  "parentId": "0e9d7b9e-0955-4ff5-a81b-873a3b86baf3",
+  "rootParentId": "0e9d7b9e-0955-4ff5-a81b-873a3b86baf3",
+  "name": "does not want to know",
+  "auto": true,
+  "contexts": [
+    "pregnant-months-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "pregnant-months.pregnant-months-no",
+      "affectedContexts": [
+        {
+          "name": "awaiting_no",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "user-wants-more-help",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Ok! Before we end the counselling session here are some exercises -\nwalking\nyoga\nPilates\nlow-impact aerobics\nlight weight training\ncycling . \nWould you like to have information about something else?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

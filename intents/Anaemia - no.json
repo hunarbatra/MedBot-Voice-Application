@@ -1,0 +1,43 @@
+{
+  "id": "9148fa34-9d91-471f-a0d0-d175c52ff977",
+  "parentId": "40ed42b8-d145-40a3-82ed-fc9eb7530550",
+  "rootParentId": "40ed42b8-d145-40a3-82ed-fc9eb7530550",
+  "name": "Anaemia - no",
+  "auto": true,
+  "contexts": [
+    "Anaemia-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Anaemia.Anaemia-no",
+      "affectedContexts": [
+        {
+          "name": "user-wants-more-help",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "awaiting_no",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Do you want to know about something else?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

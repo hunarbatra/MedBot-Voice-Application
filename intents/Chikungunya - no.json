@@ -1,0 +1,43 @@
+{
+  "id": "c84632fc-b1c6-4a13-93c2-7f264110ef40",
+  "parentId": "d6d32c97-34a6-4a3e-bd7e-a02763f1be17",
+  "rootParentId": "d6d32c97-34a6-4a3e-bd7e-a02763f1be17",
+  "name": "Chikungunya - no",
+  "auto": true,
+  "contexts": [
+    "Chikungunya-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Chikungunya.Chikungunya-no",
+      "affectedContexts": [
+        {
+          "name": "awaiting_no",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "user-wants-more-help",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Would you like my help with something else?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

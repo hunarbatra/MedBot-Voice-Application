@@ -1,0 +1,46 @@
+{
+  "id": "d6d32c97-34a6-4a3e-bd7e-a02763f1be17",
+  "name": "Chikungunya",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "Chikungunya-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "7af51e29-0cf4-445b-9642-891b5dde8b28",
+          "required": false,
+          "dataType": "@diseases",
+          "name": "diseases",
+          "value": "$diseases",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Chikungunya virus  is spread by the bite of infected female Aedes mosquito. Aedes mosquito breeds in clean water collections. Symptoms appear between 4 and 7 days after the patient has been bitten by the infected mosquito and these include:\nHigh fever,Joint pain ,Joint swelling and Rashes.Do you want to know  about its preventive measures?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

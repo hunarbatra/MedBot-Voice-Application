@@ -1,0 +1,50 @@
+[
+  {
+    "id": "9e03f2cc-1bf4-407f-89c7-7a26e92d1ce5",
+    "data": [
+      {
+        "text": "helpline number please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a40d88ab-ea8c-4ee8-94f8-a774081b7d4c",
+    "data": [
+      {
+        "text": "emergency number please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fd85ee14-0fd0-4b8a-b83d-6ae8b5b37cf9",
+    "data": [
+      {
+        "text": "Can you tell me emergency numbers",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "495e464c-c2ba-4c6f-a8b3-760d065117bb",
+    "data": [
+      {
+        "text": "Can you tell me helpline numbers",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

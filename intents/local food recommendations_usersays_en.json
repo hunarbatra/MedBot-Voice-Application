@@ -1,0 +1,122 @@
+[
+  {
+    "id": "bf35ddeb-1994-4093-a389-2790508d8254",
+    "data": [
+      {
+        "text": "What diet should I have",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bf85cf36-d97f-48a1-9981-ad06d5f8d3df",
+    "data": [
+      {
+        "text": "Give me some recommendations for local food",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fb33478c-156c-4fcc-b240-5cf361556cc5",
+    "data": [
+      {
+        "text": "What should I eat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "02a6745e-37e0-43d8-a9ad-bd4e10666529",
+    "data": [
+      {
+        "text": "Recommend me some local food",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "556a639a-0804-4fb5-b3ed-cb559fd0ba3a",
+    "data": [
+      {
+        "text": "Can you tell me some local food recommendations",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3a29b233-0c0b-47d2-a250-0520ac56afa8",
+    "data": [
+      {
+        "text": "Give me food recommendation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4c09cacd-5d1e-4a21-a856-6c790236a773",
+    "data": [
+      {
+        "text": "eating habits",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "934e2404-cd5c-4adf-94fb-d0406628293a",
+    "data": [
+      {
+        "text": "diet",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c6b226dd-2256-42c3-9f36-49ae495bb01c",
+    "data": [
+      {
+        "text": "food recommendation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a47eac83-d924-4495-9923-f61b0d450dca",
+    "data": [
+      {
+        "text": "dietary habits",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

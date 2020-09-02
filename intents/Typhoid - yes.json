@@ -1,0 +1,56 @@
+{
+  "id": "0172829a-1a6a-4bbb-9e9c-c34ffe8d2326",
+  "parentId": "5214323e-d240-4c7c-ab15-2c6cd101191e",
+  "rootParentId": "5214323e-d240-4c7c-ab15-2c6cd101191e",
+  "name": "Typhoid - yes",
+  "auto": true,
+  "contexts": [
+    "Typhoid-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Typhoid.Typhoid-yes",
+      "affectedContexts": [
+        {
+          "name": "user-wants-more-help",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "awaiting_no",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "58dbc2cd-4b37-4bfd-8194-b77dd956cb80",
+          "required": false,
+          "dataType": "@diseases",
+          "name": "diseases",
+          "value": "$diseases",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Yes sure.Wash your hands each time before eating,avoid raw fruits and vegetables,don\u0027t drink untreated water.Is there something else I can do for you?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

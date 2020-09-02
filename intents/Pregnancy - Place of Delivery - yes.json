@@ -1,0 +1,46 @@
+{
+  "id": "542f2cf0-861c-40fa-8d50-be6b7d6edaee",
+  "name": "Pregnancy - Place of Delivery - yes",
+  "auto": true,
+  "contexts": [
+    "Counsellingsession-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Pregnancy.Pregnancy-yes.Counsellingsession-yes",
+      "affectedContexts": [
+        {
+          "name": "awaiting_not",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "awaiting_yes_pod",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "hi",
+          "speech": "ठीक है! यह सुनकर खुशी हुई कि आपने पहले ही फैसला कर लिया है। क्या आप पेट दर्द से पीड़ित हैं?"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Okay! glad to hear that. Do you suffer from abdominal pain?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

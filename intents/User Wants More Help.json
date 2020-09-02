@@ -1,0 +1,34 @@
+{
+  "id": "6bc07eab-4165-40be-b10d-0545ace93b62",
+  "name": "User Wants More Help",
+  "auto": true,
+  "contexts": [
+    "user-wants-more-help"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "hi",
+          "speech": "ठीक है मैं आपकी मदद कैसे कर सकता हूँ?"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "What can i help you with?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

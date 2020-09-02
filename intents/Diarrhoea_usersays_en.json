@@ -1,0 +1,244 @@
+[
+  {
+    "id": "4535106f-7397-4a7a-8ae2-7cdf32ee5906",
+    "data": [
+      {
+        "text": "i want to know symptoms of ",
+        "userDefined": false
+      },
+      {
+        "text": "diarrhoea",
+        "alias": "diseases",
+        "meta": "@diseases",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b4ba54e1-5412-4a04-868e-e0b7b07f76aa",
+    "data": [
+      {
+        "text": "tell me ",
+        "userDefined": false
+      },
+      {
+        "text": "diarrhoea",
+        "alias": "diseases",
+        "meta": "@diseases",
+        "userDefined": false
+      },
+      {
+        "text": " symptoms",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "21feb284-fb13-4692-a866-9ae176c5c7d7",
+    "data": [
+      {
+        "text": "symptoms of ",
+        "userDefined": false
+      },
+      {
+        "text": "diarrhoea",
+        "alias": "diseases",
+        "meta": "@diseases",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1777b3ab-1059-4b3c-9bc3-8a1ee2e424ad",
+    "data": [
+      {
+        "text": "info about ",
+        "userDefined": false
+      },
+      {
+        "text": "diarrhoea",
+        "alias": "diseases",
+        "meta": "@diseases",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a75bf786-cff6-4bcd-a157-a9adc5f495fd",
+    "data": [
+      {
+        "text": "provide me some info about ",
+        "userDefined": false
+      },
+      {
+        "text": "diarrhoea",
+        "alias": "diseases",
+        "meta": "@diseases",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "59ce3a3c-0bd3-497e-b350-99cd4f0849b9",
+    "data": [
+      {
+        "text": "i want to know what is ",
+        "userDefined": false
+      },
+      {
+        "text": "diarrhoea",
+        "alias": "diseases",
+        "meta": "@diseases",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e5e90f06-ffc7-4ae3-b21b-4302c5ed4cc9",
+    "data": [
+      {
+        "text": "please tell about ",
+        "userDefined": false
+      },
+      {
+        "text": "diarrhoea",
+        "alias": "diseases",
+        "meta": "@diseases",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5d5d0159-ddfc-49c8-8239-123a8b9da880",
+    "data": [
+      {
+        "text": "tell me about ",
+        "userDefined": false
+      },
+      {
+        "text": "diarrhoea",
+        "alias": "diseases",
+        "meta": "@diseases",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9cb975ee-8ede-45be-97bc-83fc7b18068c",
+    "data": [
+      {
+        "text": "diarrhoea",
+        "alias": "diseases",
+        "meta": "@diseases",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "91c40789-5714-4a51-82b2-3ce62c7668a2",
+    "data": [
+      {
+        "text": "give me information about ",
+        "userDefined": false
+      },
+      {
+        "text": "diarrhoea",
+        "alias": "diseases",
+        "meta": "@diseases",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "03b1753a-8646-4168-b6bc-6691c7d5d4e6",
+    "data": [
+      {
+        "text": "i want to know about ",
+        "userDefined": false
+      },
+      {
+        "text": "diarrhoea",
+        "alias": "diseases",
+        "meta": "@diseases",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7580936b-4839-432a-b54f-735f5ce2fbab",
+    "data": [
+      {
+        "text": "can you tell me about ",
+        "userDefined": false
+      },
+      {
+        "text": "diarrhoea",
+        "alias": "diseases",
+        "meta": "@diseases",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8bf5494b-a1a4-4a52-8c78-8446565eb6bb",
+    "data": [
+      {
+        "text": "what is ",
+        "userDefined": false
+      },
+      {
+        "text": "diarrhoea",
+        "alias": "diseases",
+        "meta": "@diseases",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

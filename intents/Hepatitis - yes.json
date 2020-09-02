@@ -1,0 +1,61 @@
+{
+  "id": "f1272099-e2fe-4f10-bea5-7ca9e8aca032",
+  "parentId": "39e48678-7632-4681-8bd0-854aab2b00fe",
+  "rootParentId": "39e48678-7632-4681-8bd0-854aab2b00fe",
+  "name": "Hepatitis - yes",
+  "auto": true,
+  "contexts": [
+    "Hepatitis-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Hepatitis.Hepatitis-yes",
+      "affectedContexts": [
+        {
+          "name": "user-wants-more-help",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "awaiting_no",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "e30edc08-27fa-4be7-917c-a7abf8c72b04",
+          "required": false,
+          "dataType": "@diseases",
+          "name": "diseases",
+          "value": "$diseases",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "hi",
+          "speech": "सामान्य सावधानियों में शामिल हैं: बाथरूम जाने से पहले और खाना या खाने से पहले अपने हाथों को धोएं, लेटेक्स कंडोम का उपयोग करें, जिससे संचरण का खतरा कम हो सकता है।\nदवा की सुइयों को साझा न करें। हेपेटाइटिस ए के लिए: बच्चों के टीकाकरण (1-18 वर्ष की आयु) में टीके की दो या तीन खुराक शामिल हैं। टीके की प्रारंभिक खुराक के बाद वयस्कों को छह से 12 महीने तक बूस्टर खुराक की आवश्यकता होती है। वैक्सीन को 15-20 साल या उससे अधिक समय के लिए प्रभावी माना जाता है।\n\nहेपेटाइटिस बी के लिए: सुरक्षित और प्रभावी टीके 15 साल तक हेपेटाइटिस बी से सुरक्षा प्रदान करते हैं और संभवतः बहुत लंबे समय तक। क्या आप कुछ और के साथ मेरी मदद चाहते हैं?"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "General precautions include: Wash your hands after going to the bathroom and before handling food or eating,Use latex condoms, which may lower the risk of transmission.\nDon\u0027t share drug needles. For Hepatitis A: Immunization of children (1-18 years of age) consists of two or three doses of the vaccine. Adults need a booster dose six to 12 months following the initial dose of vaccine. The vaccine is thought to be effective for 15–20 years or more.\n\nFor Hepatitis B: Safe and effective vaccines provide protection against hepatitis B for 15 years and possibly much longer. Do you want my help with something else?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

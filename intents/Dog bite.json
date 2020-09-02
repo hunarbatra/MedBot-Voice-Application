@@ -1,0 +1,46 @@
+{
+  "id": "0ac9c6e2-6a97-45d3-aeed-66f32d4947f1",
+  "name": "Dog bite",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "Dogbite-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "665ae606-f153-4031-aaeb-aa9de1be51af",
+          "required": false,
+          "dataType": "@diseases",
+          "name": "diseases",
+          "value": "$diseases",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "A dog bite can lead to rabies or tetanus infection.Bite wounds from dogs can range from minor to life-threatening and need to be treated quickly to prevent infection or traumatic complications.Symptoms of infection include redness, swelling, increased pain and oozing.Do you want to know the treatment of dog bite?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

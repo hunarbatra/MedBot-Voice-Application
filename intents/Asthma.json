@@ -1,0 +1,56 @@
+{
+  "id": "cffa885d-2b26-4898-8708-39064e4e852e",
+  "name": "Asthma",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "Asthma-followup",
+          "parameters": {},
+          "lifespan": 2
+        },
+        {
+          "name": "user-wants-more-help",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "awaiting_no",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "4dc8d7d4-7880-48b2-bfac-71b0cb774945",
+          "required": false,
+          "dataType": "@diseases",
+          "name": "diseases",
+          "value": "$diseases",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Asthma is a chronic disease characterized by recurrent attacks of breathlessness and wheezing in which a person\u0027s airways become inflamed, narrow and swell and produce extra mucus, which makes it difficult to breathe. Asthma may cause difficulty in breathing, chest pain, cough and wheezing. \nWould you like to know about something else?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

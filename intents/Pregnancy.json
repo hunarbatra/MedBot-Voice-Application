@@ -1,0 +1,73 @@
+{
+  "id": "fed682bf-f649-4ca4-a7db-192d44bf5d17",
+  "name": "Pregnancy",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "Pregnancy-followup",
+          "parameters": {},
+          "lifespan": 2
+        },
+        {
+          "name": "awaiting_no",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "basic_card",
+          "platform": "google",
+          "lang": "en",
+          "image": {
+            "url": "https://4.bp.blogspot.com/-T9dRH15EDC8/WXDKDUGAbNI/AAAAAAAAy8g/PbPBr3TnfFI6pUm1X43q-dxpKn7l5D9ggCLcBGAs/s1600/AW479263_00.gif",
+            "accessibilityText": "pregnancy"
+          }
+        },
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "lang": "en",
+          "suggestions": [
+            {
+              "title": "Home remedies"
+            },
+            {
+              "title": "Hygiene and Healthcare ti"
+            },
+            {
+              "title": "BMI"
+            },
+            {
+              "title": "AIDS"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Congratulations! It is very important to take care of yourself during pregnancy. Here are a few things I can help you with: know about your current trimester, prenatal care, recommended diet plan,post pregnancy care of you and your baby.\nWould you like to have a counselling session with me?"
+        },
+        {
+          "type": 0,
+          "lang": "hi",
+          "speech": "बधाई हो! गर्भावस्था के दौरान अपना ख्याल रखना बहुत जरूरी है। यहां कुछ चीजें दी गई हैं जिनकी मैं आपकी मदद कर सकता हूं: अपने वर्तमान ट्राइमेस्टर, प्रसवपूर्व देखभाल, अनुशंसित आहार योजना, आपके और आपके बच्चे की गर्भावस्था की देखभाल के बारे में जानें।\nक्या आप मेरे साथ परामर्श सत्र करना चाहेंगे?"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

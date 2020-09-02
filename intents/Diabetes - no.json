@@ -1,0 +1,48 @@
+{
+  "id": "13f7daa4-a042-49d2-bb46-307aec3e5ce8",
+  "parentId": "1931636f-9767-42de-b467-1b5895248892",
+  "rootParentId": "1931636f-9767-42de-b467-1b5895248892",
+  "name": "Diabetes - no",
+  "auto": true,
+  "contexts": [
+    "Diabetes-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Diabetes.Diabetes-no",
+      "affectedContexts": [
+        {
+          "name": "awaiting_no",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "user-wants-more-help",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "hi",
+          "speech": "क्या मैं आपकी कुछ और मदद कर सकता हूं?"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Can I help you with something else?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

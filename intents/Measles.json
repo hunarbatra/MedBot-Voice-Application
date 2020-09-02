@@ -1,0 +1,46 @@
+{
+  "id": "015320fb-a2ab-4943-8978-4370e4070c24",
+  "name": "Measles",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "Measles-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "c2284b46-a023-4394-9a26-e2b550ef22e7",
+          "required": false,
+          "dataType": "@diseases",
+          "name": "diseases",
+          "value": "$diseases",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Measles is a very contagious disease caused by a virus. It spreads through the air when an infected\nperson coughs or sneezes. Measles starts with fever. Soon after, it causes a cough, runny nose, and\nred eyes. Then a rash of tiny, red spots breaks out. It starts at the head and spreads to the rest of\nthe body.Do you want to know how measles can be prevented?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

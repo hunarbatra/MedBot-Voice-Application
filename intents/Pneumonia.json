@@ -1,0 +1,46 @@
+{
+  "id": "6c0acc11-19b2-4fa1-97c1-82511f3fde36",
+  "name": "Pneumonia",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "Pneumonia-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "3c56ae8f-2a15-41a1-9f52-861f265ad83c",
+          "required": false,
+          "dataType": "@diseases",
+          "name": "diseases",
+          "value": "$diseases",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Pneumonia is an infection in one or both lungs. Pneumonia causes inflammation in the\nair sacs in your lungs. The air sac gets filled with fluid or pus, making it difficult to\nbreathe. Some common symptoms include Difficulty in breathing such that breathing may be rapid and shallow,Rapid heartbeat,Fever, Fatigue,Sweating and shivering. Would you like to know about its preventive measures?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

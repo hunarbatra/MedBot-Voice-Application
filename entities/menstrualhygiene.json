@@ -1,0 +1,9 @@
+{
+  "id": "a23da4b4-f082-42ad-aec0-543acb0582e8",
+  "name": "menstrualhygiene",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

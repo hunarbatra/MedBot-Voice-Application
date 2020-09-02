@@ -1,0 +1,59 @@
+{
+  "id": "ef9e859c-d305-40d8-a4bd-e8fc9ccc1a8d",
+  "name": "Home remedies",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "user-wants-more-help",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "awaiting_no",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "e625cc8c-1029-4d57-b17b-f97235af16bf",
+          "required": true,
+          "dataType": "@diseases",
+          "name": "diseases",
+          "value": "$diseases",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "For which disease would you like to know a Home Remedy?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "webhook failed"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

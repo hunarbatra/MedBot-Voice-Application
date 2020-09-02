@@ -1,0 +1,38 @@
+[
+  {
+    "id": "0dee355a-5d48-4691-9195-1f1c6e83c216",
+    "data": [
+      {
+        "text": "बिल्कुल नहीं",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4fe99f7a-0e92-45b4-9bab-9c6132277827",
+    "data": [
+      {
+        "text": "ना",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c322f2b9-0cfe-4860-b6ff-8857779468fb",
+    "data": [
+      {
+        "text": "नहीं",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,43 @@
+{
+  "id": "9489eb4c-0d5e-4abf-98c9-ea0b90df92a8",
+  "parentId": "d3ceb407-f5bc-4f86-844b-7c68d56e7477",
+  "rootParentId": "d3ceb407-f5bc-4f86-844b-7c68d56e7477",
+  "name": "Bee sting - no",
+  "auto": true,
+  "contexts": [
+    "Beesting-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Beesting.Beesting-no",
+      "affectedContexts": [
+        {
+          "name": "user-wants-more-help",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "awaiting_no",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "How can I help you?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

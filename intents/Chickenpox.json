@@ -1,0 +1,61 @@
+{
+  "id": "31510105-a9cc-4cbb-8cec-731a5959e567",
+  "name": "Chickenpox",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "Chickenpox-followup",
+          "parameters": {},
+          "lifespan": 2
+        },
+        {
+          "name": "user-wants-more-help",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "awaiting_no",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "0e3d6efe-a7fd-418e-8a42-cbb7ddca771b",
+          "required": false,
+          "dataType": "@diseases",
+          "name": "diseases",
+          "value": "$diseases",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "hi",
+          "speech": "चिकनपॉक्स वायरस से होने वाली एक बहुत ही संक्रामक बीमारी है। इस से छाले की तरह, खुजली करने वाले दाने हो जाते हैं I थकान और बुखार भी होता है।\n रोकथाम के लिए टीके उपलब्ध हैं। कुछ लोग जिन्हें चिकनपॉक्स के खिलाफ टीका लगाया  है \n परंतु फिर भी चिकनपॉक्स है \n चिंता मत करो\n आमतौर पर कम फफोले और थोड़ा या कोई बुखार नहीं होता है। क्या आप कुछ और जानना चाहते हैं?"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Chickenpox is a very contagious disease caused by virus. It causes a blister-like rash, itching,\ntiredness, and fever.\nVaccines are available for prevention. Some people who are vaccinated against chickenpox may\nstill get the disease. However, it is usually milder with fewer blisters and little or no fever.Do you want to know something else?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

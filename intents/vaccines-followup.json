@@ -1,0 +1,68 @@
+{
+  "id": "d8ed55be-abe8-46eb-aea6-9b837869726c",
+  "parentId": "1b1bcf99-1eac-43a7-8625-ddc05a5e5579",
+  "rootParentId": "1b1bcf99-1eac-43a7-8625-ddc05a5e5579",
+  "name": "vaccines-followup",
+  "auto": true,
+  "contexts": [
+    "awaiting_baby_months",
+    "vaccines-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "vaccines.vaccines-custom",
+      "affectedContexts": [
+        {
+          "name": "user-wants-more-help",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "awaiting_no",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "8905726d-dc33-498d-bfcd-bf1a6a947a1b",
+          "required": true,
+          "dataType": "@sys.number",
+          "name": "number",
+          "value": "$number",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "can you please tell the age of your baby in months?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "webhook failed"
+        },
+        {
+          "type": 0,
+          "lang": "hi",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

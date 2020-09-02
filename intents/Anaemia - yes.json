@@ -1,0 +1,61 @@
+{
+  "id": "abe29178-e448-425a-aa3b-66f12357f40e",
+  "parentId": "40ed42b8-d145-40a3-82ed-fc9eb7530550",
+  "rootParentId": "40ed42b8-d145-40a3-82ed-fc9eb7530550",
+  "name": "Anaemia - yes",
+  "auto": true,
+  "contexts": [
+    "Anaemia-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Anaemia.Anaemia-yes",
+      "affectedContexts": [
+        {
+          "name": "user-wants-more-help",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "awaiting_no",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "e96f7b16-f0ee-4546-bfe4-0ebbd225c6b9",
+          "required": false,
+          "dataType": "@diseases",
+          "name": "diseases",
+          "value": "$diseases",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "hi",
+          "speech": "हरी पत्तेदार सब्जियां जैसे कि पालक और ब्रोकोली, सूखे मेवे जैसे किशमिश और बादाम, मांस, अंडे, विटामिन सी से भरपूर खाद्य पदार्थ खाएं, जैसे कि टमाटर, संतरे आदि, जो आयरन के अवशोषण में मदद करते हैं। क्या कुछ और है जो मैं आपकी मदद कर सकता हूं?"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Eat iron rich foods like green leafy vegetables including spinach and broccoli ,dried fruits like raisins and almond,meat,eggs,food rich in vitamin c which help in the absorption of iron like tomatoes,oranges etc.Is there something else I can help you with?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

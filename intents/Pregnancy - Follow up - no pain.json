@@ -1,0 +1,40 @@
+{
+  "id": "a46eeb2c-32ca-487d-a731-3b705b056759",
+  "name": "Pregnancy - Follow up - no pain",
+  "auto": true,
+  "contexts": [
+    "awaiting_not"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "awaiting_months",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "ok! great!! how many months pregnant are you?"
+        },
+        {
+          "type": 0,
+          "lang": "hi",
+          "speech": "वाह! यह बहुत अच्छी बात है। अब मुझे बताओ कि तुम कितने महीने की गर्भवती हो?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

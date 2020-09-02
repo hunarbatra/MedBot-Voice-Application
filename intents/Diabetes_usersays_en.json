@@ -1,0 +1,280 @@
+[
+  {
+    "id": "28a2aa7d-b20d-4c5a-97aa-c7bd591a7a16",
+    "data": [
+      {
+        "text": "how do i know i have ",
+        "userDefined": false
+      },
+      {
+        "text": "diabetes",
+        "alias": "diseases",
+        "meta": "@diseases",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e218f4cc-6e1a-4b89-a5ff-37e64c8b003d",
+    "data": [
+      {
+        "text": "what are the symptoms of ",
+        "userDefined": false
+      },
+      {
+        "text": "diabetes",
+        "alias": "diseases",
+        "meta": "@diseases",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d35d97ec-9e13-4c8d-a0af-b813c3a8973d",
+    "data": [
+      {
+        "text": "diabetes",
+        "alias": "diseases",
+        "meta": "@diseases",
+        "userDefined": false
+      },
+      {
+        "text": " symptoms",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4d8d1add-8f3a-4c16-9644-22c66a9151d2",
+    "data": [
+      {
+        "text": "please tell me about ",
+        "userDefined": false
+      },
+      {
+        "text": "diabetes",
+        "alias": "diseases",
+        "meta": "@diseases",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ab55846c-0a5c-49d2-b9d3-704f4c5f932b",
+    "data": [
+      {
+        "text": "i want to know about ",
+        "userDefined": false
+      },
+      {
+        "text": "diabetes",
+        "alias": "diseases",
+        "meta": "@diseases",
+        "userDefined": false
+      },
+      {
+        "text": " symptoms",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3f6294c5-dd57-47fe-a5d3-4a1462bde8bd",
+    "data": [
+      {
+        "text": "tell me about symptoms of ",
+        "userDefined": false
+      },
+      {
+        "text": "diabetes",
+        "alias": "diseases",
+        "meta": "@diseases",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "63de3404-63db-4302-ae41-8d36927bd4c4",
+    "data": [
+      {
+        "text": "symptoms of ",
+        "userDefined": false
+      },
+      {
+        "text": "diabetes",
+        "alias": "diseases",
+        "meta": "@diseases",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e8d9e941-1c27-4413-9887-b4529c3dbc55",
+    "data": [
+      {
+        "text": "information about ",
+        "userDefined": false
+      },
+      {
+        "text": "diabetes",
+        "alias": "diseases",
+        "meta": "@diseases",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0899bc0a-7786-4bae-972c-d9e24de67f3d",
+    "data": [
+      {
+        "text": "what is ",
+        "userDefined": false
+      },
+      {
+        "text": "diabetes",
+        "alias": "diseases",
+        "meta": "@diseases",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "340b252d-a6ea-4eb7-ad66-562731bfa1b3",
+    "data": [
+      {
+        "text": "diabetes",
+        "alias": "diseases",
+        "meta": "@diseases",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "81fd1f8c-fa58-4f66-aac3-11097347613b",
+    "data": [
+      {
+        "text": "provide me info about ",
+        "userDefined": false
+      },
+      {
+        "text": "diabetes",
+        "alias": "diseases",
+        "meta": "@diseases",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d041a991-8a16-4394-96cf-5e0f6c01146d",
+    "data": [
+      {
+        "text": "give me info about ",
+        "userDefined": false
+      },
+      {
+        "text": "diabetes",
+        "alias": "diseases",
+        "meta": "@diseases",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "953d0574-d7e2-420a-8599-c01ac04651d2",
+    "data": [
+      {
+        "text": "tell me about ",
+        "userDefined": false
+      },
+      {
+        "text": "diabetes",
+        "alias": "diseases",
+        "meta": "@diseases",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ca556d82-bc85-4792-bf16-905f38e57375",
+    "data": [
+      {
+        "text": "i want to know about ",
+        "userDefined": false
+      },
+      {
+        "text": "diabetes",
+        "alias": "diseases",
+        "meta": "@diseases",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5ceb2659-5f6c-4351-af0e-d75ef5d14da8",
+    "data": [
+      {
+        "text": "can you tell me about ",
+        "userDefined": false
+      },
+      {
+        "text": "diabetes",
+        "alias": "diseases",
+        "meta": "@diseases",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

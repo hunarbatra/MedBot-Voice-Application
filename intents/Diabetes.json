@@ -1,0 +1,84 @@
+{
+  "id": "1931636f-9767-42de-b467-1b5895248892",
+  "name": "Diabetes",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "Diabetes-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "389093c5-9475-4f86-ba90-f871edc73927",
+          "required": false,
+          "dataType": "@diseases",
+          "name": "diseases",
+          "value": "$diseases",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "lang": "en",
+          "suggestions": [
+            {
+              "title": "Dengue"
+            },
+            {
+              "title": "BMI"
+            },
+            {
+              "title": "AIDS"
+            },
+            {
+              "title": "Hygiene and Healthcare"
+            },
+            {
+              "title": "Home remedies"
+            },
+            {
+              "title": "Pregnancy"
+            },
+            {
+              "title": "Tuberculosis"
+            },
+            {
+              "title": "Typhoid"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Diabetes is a chronic disease that occurs either when the pancreas does not produce enough\ninsulin or when the body cannot effectively use the insulin it produces. Insulin is a hormone that\nregulates blood sugar. Some symptoms include: urinating frequently , feeling very thirsty,feeling hungry\nfrequently,weakness, weight loss , cuts or wounds that heal slowly, blurred vision. Do you want to know about its preventive measures?"
+        },
+        {
+          "type": 0,
+          "lang": "hi",
+          "speech": "मधुमेह एक पुरानी बीमारी है जो या तो तब होती है जब अग्न्याशय पर्याप्त उत्पादन नहीं करता है\nइंसुलिन या जब शरीर प्रभावी रूप से उत्पादित इंसुलिन का उपयोग नहीं कर सकता है। इंसुलिन एक हार्मोन है जो\nरक्त शर्करा को नियंत्रित करता है। कुछ लक्षणों में शामिल हैं: बार-बार पेशाब करना, बहुत प्यास लगना, भूख महसूस करना\nअक्सर, कमजोरी, वजन घटाना, कट या घाव जो धीरे-धीरे ठीक हो जाते हैं, दृष्टि धुंधली हो जाती है। क्या आप इसके निवारक उपायों के बारे में जानना चाहते हैं?"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

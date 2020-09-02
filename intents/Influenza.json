@@ -1,0 +1,46 @@
+{
+  "id": "984dd3c5-0d2f-493d-936d-70211b18c929",
+  "name": "Influenza",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "Influenza-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "b4f5589e-0e1d-47da-8de1-5093a0a4734d",
+          "required": false,
+          "dataType": "@diseases",
+          "name": "diseases",
+          "value": "$diseases",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": true
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Influenza (also known as flu) is a contagious respiratory illness caused by flu viruses. It can cause mild to severe illness, and at times can lead to death. Flu is different from a cold. \nSomeone who is sick with flu often feel some or all of these symptoms: chills\nCough, Sore throat, Runny nose, body aches, Headaches, Fatigue (tiredness),Some people may have vomiting and diarrhea. Do you want to know about its preventive  measures?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,43 @@
+{
+  "id": "87bd8064-e76b-45e4-b8fc-000c78176bc8",
+  "parentId": "097e9076-a35f-4c71-bd71-f0db2750327e",
+  "rootParentId": "097e9076-a35f-4c71-bd71-f0db2750327e",
+  "name": "Muscular pain - no",
+  "auto": true,
+  "contexts": [
+    "Muscularpain-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Muscularpain.Muscularpain-no",
+      "affectedContexts": [
+        {
+          "name": "user-wants-more-help",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "awaiting_no",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Okay,would you like to know something else?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

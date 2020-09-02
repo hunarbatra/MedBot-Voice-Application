@@ -1,0 +1,51 @@
+{
+  "id": "e113b239-17f8-4f14-adba-787741506bb6",
+  "name": "Polio",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "user-wants-more-help",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "awaiting_no",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "e97a5fb8-e43e-44b8-a9b3-8fcaced03f60",
+          "required": false,
+          "dataType": "@diseases",
+          "name": "diseases",
+          "value": "$diseases",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Polio is a crippling and potentially deadly disease.The virus spreads from person to person and can invade an infected person’s brain and spinal cord, causing paralysis. \nIt is possible to prevent polio by stimulating your immune system with vaccination.  The inactivated polio vaccine needs to be given at 2, 4, and between 6 and 18 months of age with a booster between ages 4-6. Do you want me to tell you something else?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

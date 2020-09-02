@@ -1,0 +1,56 @@
+{
+  "id": "89080817-e59c-434a-bb84-125becccdc2a",
+  "parentId": "10c34b71-326b-4df5-b11d-2a0659985f98",
+  "rootParentId": "10c34b71-326b-4df5-b11d-2a0659985f98",
+  "name": "Malaria - yes",
+  "auto": true,
+  "contexts": [
+    "Malaria-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Malaria.Malaria-yes",
+      "affectedContexts": [
+        {
+          "name": "user-wants-more-help",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "awaiting_no",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "95039d5f-d088-4308-be36-d11df8fd0ef9",
+          "required": false,
+          "dataType": "@diseases",
+          "name": "diseases",
+          "value": "$diseases",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Avoid mosquito bites by using insect repellent, covering your arms and legs, and using a mosquito net.Do you want to know something else?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

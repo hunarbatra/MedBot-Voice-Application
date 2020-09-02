@@ -1,0 +1,56 @@
+{
+  "id": "d68b8496-8768-458b-8e4f-061de90ec18a",
+  "parentId": "c75f7be1-fe8d-497d-b176-1992a68f3e2b",
+  "rootParentId": "c75f7be1-fe8d-497d-b176-1992a68f3e2b",
+  "name": "Kala azar - yes",
+  "auto": true,
+  "contexts": [
+    "Kalaazar-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Kalaazar.Kalaazar-yes",
+      "affectedContexts": [
+        {
+          "name": "user-wants-more-help",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "awaiting_no",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "b8e3084d-796c-43b3-aa16-718f6ccf1ef7",
+          "required": false,
+          "dataType": "@diseases",
+          "name": "diseases",
+          "value": "$diseases",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "To avoid sand flies that cause kala azar,wear clothing that covers as much skin as possible.Use insect repellent on any exposed skin..Use a bed net tucked into your mattress.Do you want my help with something else?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

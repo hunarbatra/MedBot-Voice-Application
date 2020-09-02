@@ -1,0 +1,56 @@
+{
+  "id": "24611d20-b902-446e-9ffc-de5c2c587a2e",
+  "parentId": "984dd3c5-0d2f-493d-936d-70211b18c929",
+  "rootParentId": "984dd3c5-0d2f-493d-936d-70211b18c929",
+  "name": "Influenza - yes",
+  "auto": true,
+  "contexts": [
+    "Influenza-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Influenza.Influenza-yes",
+      "affectedContexts": [
+        {
+          "name": "awaiting_no",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "user-wants-more-help",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "fa5e4100-d540-4789-961e-65b366abc47b",
+          "required": false,
+          "dataType": "@diseases",
+          "name": "diseases",
+          "value": "$diseases",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": true
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Prevention is-\nStay away from the crowded place. \nAvoid close contact with affected people in your house.\nDrink plenty of water and other clear liquids to prevent fluid loss (dehydration).\nGet yourself vaccinated. \nClean your hands and avoid touching your eyes, nose, and mouth. \nWould you like to know  something else?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,70 @@
+{
+  "id": "00cd4b97-611f-4eb3-a1b0-78166b152cd0",
+  "name": "Default Fallback Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.unknown",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "hi",
+          "speech": [
+            "मुझे समझ नहीं आया. क्या आप अपनी बात दोहरा सकते हैं?",
+            "आपने क्या कहा, मुझे समझ नहीं आया. फिर से कहें?",
+            "माफ़ करें, क्या आप अपनी बात दोहरा सकते हैं?",
+            "माफ़ करें, क्या आप अपनी बात फिर से कह सकते हैं?",
+            "क्या आप अपनी बात दोहरा सकते हैं?",
+            "माफ़ करें, मुझे समझ नहीं आया|",
+            "माफ़ करें, क्या कहा आपने?",
+            "एक बार फिर से कह सकते हैं?",
+            "क्या कहा आपने?",
+            "एक बार फिर से कहिए?",
+            "मुझे समझ नहीं आया|"
+          ]
+        },
+        {
+          "type": "basic_card",
+          "platform": "google",
+          "lang": "en",
+          "image": {
+            "url": "https://cdn-images-1.medium.com/max/1600/1*ieRlbimxS-20vQL1zn421g.jpeg",
+            "accessibilityText": "fallback"
+          }
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "I didn\u0027t get that. Can you say it again?",
+            "I missed what you said. What was that?",
+            "Sorry, could you say that again?",
+            "Sorry, can you say that again?",
+            "Can you say that again?",
+            "Sorry, I didn\u0027t get that. Can you rephrase?",
+            "Sorry, what was that?",
+            "One more time?",
+            "What was that?",
+            "Say that one more time?",
+            "I didn\u0027t get that. Can you repeat?",
+            "I missed that, say that again?",
+            "Could you please repeat again, I can\u0027t get it?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": true,
+  "events": []
+}

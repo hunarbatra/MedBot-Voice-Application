@@ -1,0 +1,46 @@
+{
+  "id": "5214323e-d240-4c7c-ab15-2c6cd101191e",
+  "name": "Typhoid",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "Typhoid-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "d15f315b-4937-40b8-980a-ef3912a423fc",
+          "required": false,
+          "dataType": "@diseases",
+          "name": "diseases",
+          "value": "$diseases",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Typhoid, is a common worldwide bacterial disease caused by the ingestion of contaminated food or water.Symptoms include high fever, headache, constipation or diarrhoea, rose-colored spots on the chest etc.Typhoid fever can be treated with antibiotics.Do you want to know about its preventive measures?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

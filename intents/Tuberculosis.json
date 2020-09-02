@@ -1,0 +1,46 @@
+{
+  "id": "8092485a-9d9e-4bc1-a1f3-2658160989b3",
+  "name": "Tuberculosis",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "Tuberculosis-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "c54ae877-c685-4274-8e84-f69ef640e0f2",
+          "required": false,
+          "dataType": "@diseases",
+          "name": "diseases",
+          "value": "$diseases",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "TB bacteria most commonly grow in the lungs , and can cause symptoms such as:\nA bad cough that lasts 3 weeks or longer\nPain in the chest\nCoughing up blood or sputum (mucus from deep inside the lungs)\nChills and fever. \nwould you like to know the preventive measures?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

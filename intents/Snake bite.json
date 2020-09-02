@@ -1,0 +1,46 @@
+{
+  "id": "df3c0dee-b2d1-4212-b565-f4fa2c4e2211",
+  "name": "Snake bite",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "Snakebite-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "a5d4b710-5f8b-43a0-a418-5b002a6aa20b",
+          "required": false,
+          "dataType": "@diseases",
+          "name": "diseases",
+          "value": "$diseases",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "A snake bite can be life-threatening if the snake is venomous.\nSymptoms may include pain, swelling, redness or bleeding at the site of the bite.\nIf a person is bitten by a snake, it\u0027s important that he or she remains calm.Do you want to know about the treatment of snake bite?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

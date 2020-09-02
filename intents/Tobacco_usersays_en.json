@@ -1,0 +1,118 @@
+[
+  {
+    "id": "4bc9a1a1-76c5-4fc3-ac77-46ba501e89e0",
+    "data": [
+      {
+        "text": "why ",
+        "userDefined": false
+      },
+      {
+        "text": "tobacco",
+        "alias": "diseases",
+        "meta": "@diseases",
+        "userDefined": true
+      },
+      {
+        "text": " is bad?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "770c9c3b-29c5-4884-9ae2-38ff50ad3c36",
+    "data": [
+      {
+        "text": "what does ",
+        "userDefined": false
+      },
+      {
+        "text": "tobacco",
+        "alias": "diseases",
+        "meta": "@diseases",
+        "userDefined": true
+      },
+      {
+        "text": " do?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "907d2b1b-0921-429d-9f69-d2a52238853c",
+    "data": [
+      {
+        "text": "tobacco",
+        "alias": "diseases",
+        "meta": "@diseases",
+        "userDefined": true
+      },
+      {
+        "text": " addiction",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3792aeb1-cccb-4493-b4cd-ff2b58413179",
+    "data": [
+      {
+        "text": "tell me about ",
+        "userDefined": false
+      },
+      {
+        "text": "tobacco",
+        "alias": "diseases",
+        "meta": "@diseases",
+        "userDefined": true
+      },
+      {
+        "text": " addiction ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "41b849d3-1c98-413e-987e-5af988a2aa4f",
+    "data": [
+      {
+        "text": "what is ",
+        "userDefined": false
+      },
+      {
+        "text": "tobacco",
+        "alias": "diseases",
+        "meta": "@diseases",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bebc1aeb-6263-4bda-af0a-e4918222ca43",
+    "data": [
+      {
+        "text": "tobacco",
+        "alias": "diseases",
+        "meta": "@diseases",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

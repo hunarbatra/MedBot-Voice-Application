@@ -1,0 +1,96 @@
+[
+  {
+    "id": "9cef8c8f-5a13-4da3-9eb4-c47d3e11f042",
+    "data": [
+      {
+        "text": "alcohol",
+        "alias": "diseases",
+        "meta": "@diseases",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8910dd62-652a-493b-b1aa-cb9b9f262735",
+    "data": [
+      {
+        "text": "alcohol",
+        "alias": "diseases",
+        "meta": "@diseases",
+        "userDefined": true
+      },
+      {
+        "text": " contains",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6d77b159-d47c-4e8f-b8c0-a5c9ddc9936e",
+    "data": [
+      {
+        "text": "how is ",
+        "userDefined": false
+      },
+      {
+        "text": "alcohol",
+        "alias": "diseases",
+        "meta": "@diseases",
+        "userDefined": true
+      },
+      {
+        "text": " made?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f131978b-29c0-45f1-9edd-60edaf92fc1d",
+    "data": [
+      {
+        "text": "alcohol",
+        "alias": "diseases",
+        "meta": "@diseases",
+        "userDefined": true
+      },
+      {
+        "text": " addiction",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "269993f6-586e-4ef9-badf-bd0565fa261e",
+    "data": [
+      {
+        "text": "what is ",
+        "userDefined": false
+      },
+      {
+        "text": "alcohol",
+        "alias": "diseases",
+        "meta": "@diseases",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

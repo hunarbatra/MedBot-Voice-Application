@@ -1,0 +1,38 @@
+{
+  "id": "2d73d340-037b-4f7f-a159-99f586b18325",
+  "name": "local food recommendations",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "awaiting_state_name",
+          "parameters": {},
+          "lifespan": 3
+        },
+        {
+          "name": "localfoodrecommendations-followup",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "I know about many Local Food Recommendations that can help you keep healthy and fit. But first, tell me which state do you live in?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

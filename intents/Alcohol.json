@@ -1,0 +1,46 @@
+{
+  "id": "ccb90ed2-8754-4386-aebc-ff6793dbc08f",
+  "name": "Alcohol",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "Alcohol-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "3eb9cc8d-1936-42cd-86b4-ba12c1b039b5",
+          "required": false,
+          "dataType": "@diseases",
+          "name": "diseases",
+          "value": "$diseases",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "It’s  produced by yeasts that digest sugar in grapes - used to make wine — or grains — used to make beer. Alcohol is one of the most popular psychoactive substances in the world. It can have powerful effects on your mood and mental state.would you like to know how to get rid of its addtion?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,39 @@
+{
+  "id": "e3b9e88b-175e-41d0-8b63-e2c77f5e4214",
+  "name": "Healthcare Rhymes",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en",
+          "items": [
+            {
+              "textToSpeech": "",
+              "ssml": "\u003cspeak\u003e\n\u003caudio src\u003d\"https://storage.googleapis.com/actionscodelab-43b4e.appspot.com/Brush%20Karo%20Brush%20Karo%20%20Good%20Habit%20Hindi%20Rhymes%20for%20Children%20%20Infobells.mp3\"\u003e\n\u003c/audio\u003e\n\u003c/speak\u003e",
+              "displayText": ""
+            },
+            {
+              "textToSpeech": "",
+              "ssml": "\u003cspeak\u003e\n\u003caudio src\u003d\"https://storage.googleapis.com/actionscodelab-43b4e.appspot.com/HealthPhone%E2%84%A2%20Hand%20Washing%20Song%20-%20Hindi.mp3\"\u003e\n\u003c/audio\u003e\n\u003c/speak\u003e",
+              "displayText": ""
+            }
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

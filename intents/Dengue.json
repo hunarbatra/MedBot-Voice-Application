@@ -1,0 +1,51 @@
+{
+  "id": "a98c74c6-5344-4e55-9296-b8380981000b",
+  "name": "Dengue",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "Dengue-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "aa72a53f-8f13-4806-96b0-3e5540494275",
+          "required": false,
+          "dataType": "@diseases",
+          "name": "diseases",
+          "value": "$diseases",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "hi",
+          "speech": "डेंगू एक वायरल बीमारी है, जो एडीज एजिप्टी नामक एक विशेष मच्छर के  काटने से फैलती है। मानव को एक संक्रमित मच्छर द्वारा काटे जाने के 5 - 6 दिनों के बाद बीमारी विकसित होती है। बारिश के मौसम के बाद यह बहुत आम है। डेंगू के लक्षण हैं:\nअचानक शुरू होने वाला बुखार\nसिरदर्द\nमांसपेशियों और जोड़ों का दर्द\nक्या आप इसके निवारक उपायों के बारे में जानना चाहेंगे?"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Dengue is a viral disease, transmitted by the infective bite of a particular mosquito known as Aedes Aegypti. Human being develops disease after 5 – 6 days of being bitten by an infective mosquito.  It is very common after rainy season. It is highly contagious and spreads from one person to another through mosquito bites. Symptoms of dengue are:\nSudden-onset fever\nHeadache (typically located behind the eyes)\nMuscle and joint pain\nRashes  Would you like to know about its preventive measures?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

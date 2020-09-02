@@ -1,0 +1,64 @@
+{
+  "id": "0e9d7b9e-0955-4ff5-a81b-873a3b86baf3",
+  "name": "pregnant-months",
+  "auto": true,
+  "contexts": [
+    "awaiting_months"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Pregnancy.Pregnancy-yes.Counsellingsession-yes.pod-yes-yes.abdominalpain-yes-custom",
+      "affectedContexts": [
+        {
+          "name": "pregnant-months-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "80fee9ce-315d-4bde-98d1-35e4a8222f8c",
+          "required": true,
+          "dataType": "@sys.number",
+          "name": "number",
+          "value": "$number",
+          "prompts": [
+            {
+              "lang": "hi",
+              "value": "कृपया मुझे बताएं कि आप कितने महीने की गर्भवती हैं?"
+            },
+            {
+              "lang": "en",
+              "value": "Sorry I didn\u0027t get that. Can you please tell me how many months pregnant are you?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "hi",
+          "speech": "webhook call failed"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "webhook call failed"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}
